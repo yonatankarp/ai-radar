@@ -1,12 +1,17 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatIssueDate, groupItems, issueSlug, topTags } from '../lib/radar';
 
 const issues = (await getCollection('issues', ({ data }) => data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
 const items = (await getCollection('items'))
   .sort((a, b) => new Date(b.data.discoveredAt).valueOf() - new Date(a.data.discoveredAt).valueOf());
 const latestIssue = issues[0];
+const latestSlug = latestIssue ? issueSlug(latestIssue.id) : undefined;
+const latestItems = latestSlug ? items.filter((item) => item.data.issue === latestSlug) : [];
+const groups = groupItems(latestItems.length ? latestItems : items);
+const tags = topTags(latestItems.length ? latestItems : items);
 const rawBase = import.meta.env.BASE_URL;
 const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
 ---
@@ -16,16 +21,16 @@ const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
       <span class="eyebrow">Signal over volume</span>
       <h1>AI news, only when it clears the bar.</h1>
       <p>
-        AI Radar is a curated feed and daily briefing archive for important AI developments. The goal is not to mirror the firehose. The goal is to explain what is worth attention and why.
+        AI Radar is a curated feed and daily briefing archive for important AI developments. The goal is not to mirror the firehose. The goal is to group the useful parts so they can be scanned fast.
       </p>
     </div>
     <aside class="panel stack" aria-label="Latest issue">
       <span class="pill">Latest issue</span>
       {latestIssue ? (
         <>
-          <h2>{latestIssue.data.title}</h2>
-          <p>{latestIssue.data.description}</p>
-          <a href={`${base}issues/${latestIssue.id.replace(/\.md$/, '')}/`}>Read the issue</a>
+          <h2>{formatIssueDate(latestIssue.data.publishedAt)}</h2>
+          <p>{latestItems.length} signals across blogs, research, projects, YouTube, and community sources.</p>
+          <a href={`${base}issues/${latestSlug}/`}>Read the issue</a>
         </>
       ) : (
         <p>No published issues yet.</p>
@@ -36,23 +41,41 @@ const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
   <section class="section">
     <div class="section-head">
       <div>
-        <span class="eyebrow">Curated feed</span>
-        <h2>Important enough to publish</h2>
+        <span class="eyebrow">Latest daily summary</span>
+        <h2>Grouped for scanning</h2>
       </div>
-      <a href={`${base}feed/`}>View all</a>
+      {latestSlug && <a href={`${base}issues/${latestSlug}/`}>Open full issue</a>}
     </div>
-    <div class="item-list">
-      {items.slice(0, 6).map((item) => (
-        <article class="item">
-          <span class="pill">{item.data.importance}</span>
-          <h3><a href={item.data.url}>{item.data.title}</a></h3>
-          <p>{item.data.summary}</p>
-          <p><strong>Why it matters:</strong> {item.data.whyItMatters}</p>
-          <div class="meta">
-            <span>{item.data.source}</span>
-            <span>{new Date(item.data.discoveredAt).toLocaleDateString('en-GB')}</span>
+
+    {tags.length > 0 && (
+      <div class="tag-strip compact" aria-label="Top tags">
+        {tags.map(([tag, count]) => <span>{tag} <small>{count}</small></span>)}
+      </div>
+    )}
+
+    <div class="briefing-groups home-groups">
+      {groups.map((group) => (
+        <section class="briefing-group" aria-labelledby={`home-${group.key}`}>
+          <div class="group-head">
+            <div>
+              <span class="eyebrow">{group.shortLabel}</span>
+              <h3 id={`home-${group.key}`}>{group.label}</h3>
+            </div>
+            <span class="group-count">{group.items.length}{group.total > group.items.length ? ` of ${group.total}` : ''}</span>
           </div>
-        </article>
+          <div class="compact-list">
+            {group.items.map((item) => (
+              <article class="compact-item">
+                <h4><a href={item.data.url}>{item.data.title}</a></h4>
+                <p>{item.data.whyItMatters}</p>
+                <div class="meta">
+                  <span>{item.data.source}</span>
+                  {item.data.tags.slice(0, 2).map((tag) => <span>{tag}</span>)}
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
       ))}
     </div>
   </section>

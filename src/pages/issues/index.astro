@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatIssueDate, issueSlug } from '../../lib/radar';
 
 const issues = (await getCollection('issues', ({ data }) => data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
@@ -16,16 +17,19 @@ const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
       </div>
     </div>
     <div class="item-list">
-      {issues.map((issue) => (
-        <article class="item">
-          <h2><a href={`${base}issues/${issue.id.replace(/\.md$/, '')}/`}>{issue.data.title}</a></h2>
-          <p>{issue.data.description}</p>
-          <div class="meta">
-            <span>{issue.data.publishedAt.toLocaleDateString('en-GB')}</span>
-            {issue.data.tags.map((tag) => <span>{tag}</span>)}
-          </div>
-        </article>
-      ))}
+      {issues.map((issue) => {
+        const dateLabel = formatIssueDate(issue.data.publishedAt);
+        return (
+          <article class="item issue-card">
+            <h2><a href={`${base}issues/${issueSlug(issue.id)}/`}>{dateLabel}</a></h2>
+            <p>{issue.data.description}</p>
+            <div class="meta">
+              <span>{dateLabel}</span>
+              {issue.data.tags.map((tag) => <span>{tag}</span>)}
+            </div>
+          </article>
+        );
+      })}
     </div>
   </section>
 </BaseLayout>

@@ -1,20 +1,72 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { formatIssueDate, groupItems, topTags } from '../../lib/radar';
 
 export async function getStaticPaths() {
   const issues = await getCollection('issues', ({ data }) => data.status === 'published');
-  return issues.map((issue) => ({ params: { slug: issue.id.replace(/\.md$/, '') }, props: { issue } }));
+  const items = await getCollection('items');
+  return issues.map((issue) => {
+    const slug = issue.id.replace(/\.md$/, '');
+    return {
+      params: { slug },
+      props: {
+        issue,
+        items: items
+          .filter((item) => item.data.issue === slug)
+          .sort((a, b) => new Date(b.data.discoveredAt).valueOf() - new Date(a.data.discoveredAt).valueOf())
+      }
+    };
+  });
 }
 
-const { issue } = Astro.props;
-const { Content } = await render(issue);
+const { issue, items } = Astro.props;
+const dateLabel = formatIssueDate(issue.data.publishedAt);
+const groups = groupItems(items);
+const tags = topTags(items);
 ---
-<BaseLayout title={issue.data.title} description={issue.data.description}>
-  <article class="issue-body">
-    <span class="eyebrow">{issue.data.publishedAt.toLocaleDateString('en-GB')}</span>
-    <h1>{issue.data.title}</h1>
-    <p>{issue.data.description}</p>
-    <Content />
+<BaseLayout title={dateLabel} description={issue.data.description}>
+  <article class="issue-body issue-summary">
+    <span class="eyebrow">{dateLabel}</span>
+    <h1>{dateLabel}</h1>
+    <p>{items.length} public signals grouped by source type. Each section shows up to 5 items so the daily brief stays scannable.</p>
+
+    {tags.length > 0 && (
+      <div class="tag-strip" aria-label="Top tags in this issue">
+        {tags.map(([tag, count]) => <span>{tag} <small>{count}</small></span>)}
+      </div>
+    )}
+
+    <div class="briefing-groups">
+      {groups.map((group) => (
+        <section class="briefing-group" aria-labelledby={`${group.key}-heading`}>
+          <div class="group-head">
+            <div>
+              <span class="eyebrow">{group.shortLabel}</span>
+              <h2 id={`${group.key}-heading`}>{group.label}</h2>
+            </div>
+            <span class="group-count">{group.items.length}{group.total > group.items.length ? ` of ${group.total}` : ''}</span>
+          </div>
+          <p>{group.description}</p>
+          <div class="compact-list">
+            {group.items.map((item) => (
+              <article class="compact-item">
+                <h3><a href={item.data.url}>{item.data.title}</a></h3>
+                <p>{item.data.whyItMatters}</p>
+                <div class="meta">
+                  <span>{item.data.source}</span>
+                  {item.data.tags.map((tag) => <span>{tag}</span>)}
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <section class="editorial-boundary">
+      <h2>Editorial boundary</h2>
+      <p>This public archive keeps source links and brief editorial context. Collection mechanics, scoring internals, private notes, and raw candidate queues are intentionally omitted.</p>
+    </section>
   </article>
 </BaseLayout>
