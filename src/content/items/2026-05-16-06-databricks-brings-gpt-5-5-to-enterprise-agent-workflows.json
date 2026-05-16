@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-16T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Databricks brings GPT-5.5 to enterprise agent workflows",
-  "whyItMatters": "OpenAI published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
+  "whyItMatters": "Databricks bringing GPT-5.5 into enterprise agent workflows is a useful signal for where agentic AI is becoming normal infrastructure rather than a demo layer.",
   "tags": [
     "Agentic AI / workflow"
   ],

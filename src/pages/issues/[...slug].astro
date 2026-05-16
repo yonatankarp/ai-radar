@@ -24,12 +24,16 @@ const { issue, items } = Astro.props;
 const dateLabel = formatIssueDate(issue.data.publishedAt);
 const groups = groupItems(items);
 const tags = topTags(items);
+const leadTags = tags.slice(0, 3).map(([tag]) => tag);
+const lead = leadTags.length
+  ? `Today’s issue is strongest around ${leadTags.join(', ')}. Open the sections that match your lane and skip the rest.`
+  : 'Today’s issue collects the AI items most worth opening.';
 ---
 <BaseLayout title={dateLabel} description={issue.data.description}>
   <article class="issue-body issue-summary">
-    <span class="eyebrow">{dateLabel}</span>
+    <span class="eyebrow">Daily issue</span>
     <h1>{dateLabel}</h1>
-    <p>{items.length} public signals grouped by source type. Each section shows up to 5 items so the daily brief stays scannable.</p>
+    <p>{lead}</p>
 
     {tags.length > 0 && (
       <div class="tag-strip" aria-label="Top tags in this issue">
@@ -42,12 +46,10 @@ const tags = topTags(items);
         <section class="briefing-group" aria-labelledby={`${group.key}-heading`}>
           <div class="group-head">
             <div>
-              <span class="eyebrow">{group.shortLabel}</span>
               <h2 id={`${group.key}-heading`}>{group.label}</h2>
             </div>
             <span class="group-count">{group.items.length}{group.total > group.items.length ? ` of ${group.total}` : ''}</span>
           </div>
-          <p>{group.description}</p>
           <div class="compact-list">
             {group.items.map((item) => (
               <article class="compact-item">
@@ -63,10 +65,5 @@ const tags = topTags(items);
         </section>
       ))}
     </div>
-
-    <section class="editorial-boundary">
-      <h2>Editorial boundary</h2>
-      <p>This public archive keeps source links and brief editorial context. Collection mechanics, scoring internals, private notes, and raw candidate queues are intentionally omitted.</p>
-    </section>
   </article>
 </BaseLayout>

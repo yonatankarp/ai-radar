@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-12T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Building Blocks for Foundation Model Training and Inference on AWS",
-  "whyItMatters": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "whyItMatters": "A primary-source update relevant to AI product and workflow adoption. The value is in the details: what changed, who can use it, and whether it alters near-term product or engineering decisions.",
   "tags": [
     "Practical tooling / usage"
   ],

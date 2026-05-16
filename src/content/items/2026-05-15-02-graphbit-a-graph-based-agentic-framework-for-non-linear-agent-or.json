@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-15T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
-  "whyItMatters": "A research item relevant to agentic ai and workflow. Worth scanning for methods, benchmarks, or implementation details that may transfer into practice.",
+  "whyItMatters": "A research item worth scanning for methods, benchmarks, or constraints that could matter for agent workflows.",
   "tags": [
     "Agentic AI / workflow"
   ],

@@ -58,7 +58,6 @@ const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
         <section class="briefing-group" aria-labelledby={`home-${group.key}`}>
           <div class="group-head">
             <div>
-              <span class="eyebrow">{group.shortLabel}</span>
               <h3 id={`home-${group.key}`}>{group.label}</h3>
             </div>
             <span class="group-count">{group.items.length}{group.total > group.items.length ? ` of ${group.total}` : ''}</span>

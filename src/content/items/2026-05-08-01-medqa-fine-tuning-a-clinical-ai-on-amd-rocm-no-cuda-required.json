@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-08T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
-  "whyItMatters": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+  "whyItMatters": "A primary-source update relevant to AI product and workflow adoption. The value is in the details: what changed, who can use it, and whether it alters near-term product or engineering decisions.",
   "tags": [
     "Practical tooling / usage"
   ],

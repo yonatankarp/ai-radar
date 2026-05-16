@@ -10,7 +10,7 @@ export async function GET(context) {
 
   return rss({
     title: 'AI Radar',
-    description: 'Curated AI signal, ranked by importance.',
+    description: 'A chronological feed of source-linked AI briefings.',
     site,
     items: issues.map((issue) => ({
       title: issue.data.title,

@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-13T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "YouTube: Every Level of Claude Explained in 21 Minutes",
-  "whyItMatters": "A video walkthrough relevant to current AI tooling practice. Useful for scanning the workflow, but primary docs should carry the final weight.",
+  "whyItMatters": "A practical video walkthrough. Best treated as a fast way to inspect a workflow or tool pattern before deciding whether the underlying docs are worth deeper reading.",
   "tags": [
     "Video signal"
   ],

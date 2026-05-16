@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-16T08:00:00+02:00",
   "importance": "critical",
   "summary": "I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider & congressional trades, short data, FRED",
-  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
+  "whyItMatters": "A community signal rather than a settled claim. Useful for spotting what builders are trying, what problems are recurring, and which projects may deserve a closer look.",
   "tags": [
     "Community signal"
   ],
