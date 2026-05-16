@@ -64,7 +64,10 @@ const officialSources = new Set([
   'Stability AI News',
   'Vercel Blog',
   'IBM Research Blog',
-  'Datasette Blog'
+  'Datasette Blog',
+  'Interconnects',
+  'LessWrong',
+  'Simon Willison'
 ]);
 
 export function issueSlug(id: string) {
