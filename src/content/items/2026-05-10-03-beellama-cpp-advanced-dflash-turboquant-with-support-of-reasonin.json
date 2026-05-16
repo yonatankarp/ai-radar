@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-10T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "BeeLlama.cpp: advanced DFlash & TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)",
-  "whyItMatters": "TL;DR New llama.cpp fork! I wanted a Windows-friendly inference to run Qwen 3.6 27B **Q5** on a single RTX 3090 with speculative decoding, high context without excess quantization, and vision enabled. No option did this out of the box for me without VRAM and/or tooling issues (this was before MTP PR for llama.cpp surfaced there). So I pulled out an old tric…",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Verify against primary/source links before amplifying."
+    "Community signal"
   ],
   "issue": "2026-05-10"
 }

@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-08T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Remote agents in Vibe. Powered by Mistral Medium 3.5. Product Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks. Apr 29,",
-  "whyItMatters": "Mistral AI News item surfaced from official page.",
+  "whyItMatters": "Mistral AI News published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-08"
 }

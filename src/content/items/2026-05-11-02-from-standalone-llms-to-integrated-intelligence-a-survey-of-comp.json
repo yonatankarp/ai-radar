@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-11T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "From Standalone LLMs to Integrated Intelligence: A Survey of Compound Al Systems",
-  "whyItMatters": "arXiv:2506.04565v2 Announce Type: replace-cross Abstract: Compound AI Systems (CAIS) are an emerging paradigm that integrates large language models (LLMs) with external components, including retrievers, agents, tools, and orchestrators, to overcome the limitations of standalone models in tasks requiring memory, reasoning, real-time grounding, and multimodal…",
+  "whyItMatters": "A research item relevant to agentic ai and workflow. Worth scanning for methods, benchmarks, or implementation details that may transfer into practice.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-11"
 }

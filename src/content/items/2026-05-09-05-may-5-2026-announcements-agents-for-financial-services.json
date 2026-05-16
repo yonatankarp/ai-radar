@@ -1,14 +1,13 @@
 {
-  "title": "May 5, 2026 Announcements Agents for financial services",
+  "title": "Agents for financial services",
   "url": "https://www.anthropic.com/news/finance-agents",
-  "source": "Anthropic News",
+  "source": "Anthropic",
   "discoveredAt": "2026-05-09T08:00:00+02:00",
   "importance": "worth-reading",
-  "summary": "May 5, 2026 Announcements Agents for financial services",
-  "whyItMatters": "Anthropic News item surfaced from official page.",
+  "summary": "Agents for financial services",
+  "whyItMatters": "Anthropic published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-09"
 }

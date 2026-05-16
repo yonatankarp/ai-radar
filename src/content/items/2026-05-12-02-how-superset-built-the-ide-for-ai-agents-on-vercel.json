@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-12T08:00:00+02:00",
   "importance": "critical",
   "summary": "How Superset built the IDE for AI agents on Vercel",
-  "whyItMatters": "Superset on Vercel 1,000–1,400 deployments per week ~600 preview deployments per day ~30 second average build time 57–64% week-over-week DAU growth Software development with AI started as a single engineer chatting with a single agent about a local repo. Today, developers direct fleets of agents in the cloud, but traditional tools were built for the old sha…",
+  "whyItMatters": "This source is relevant to agentic ai and workflow. The public link is included for context and verification.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-12"
 }

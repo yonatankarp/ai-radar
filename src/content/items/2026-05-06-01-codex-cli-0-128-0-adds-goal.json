@@ -7,8 +7,7 @@
   "summary": "Codex CLI 0.128.0 adds /goal",
   "whyItMatters": "Codex CLI 0.128.0 adds /goal",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-06"
 }

@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-13T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "MindMirror: A Local-First Multimodal State-Aware Support System for Digital Workers",
-  "whyItMatters": "Digital workers often experience fatigue, anxiety, reduced attention, and task blockage during prolonged computer-based work. Existing productivity tools mainly focus on task completion, while general-purpose AI chatbots require users to formulate clear prompts before receiving useful help. This paper presents MindMirror, a local-first multimodal state-awar…",
+  "whyItMatters": "A research item relevant to agentic ai and workflow. Worth scanning for methods, benchmarks, or implementation details that may transfer into practice.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-13"
 }

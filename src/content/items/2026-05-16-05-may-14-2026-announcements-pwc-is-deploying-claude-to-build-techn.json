@@ -1,14 +1,13 @@
 {
-  "title": "May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+  "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
   "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-  "source": "Anthropic News",
+  "source": "Anthropic",
   "discoveredAt": "2026-05-16T08:00:00+02:00",
   "importance": "worth-reading",
-  "summary": "May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-  "whyItMatters": "Anthropic News item surfaced from official page.",
+  "summary": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+  "whyItMatters": "Anthropic published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-16"
 }

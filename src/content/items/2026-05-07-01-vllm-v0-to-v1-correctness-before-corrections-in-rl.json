@@ -7,8 +7,7 @@
   "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
   "whyItMatters": "vLLM V0 to V1: Correctness Before Corrections in RL",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-07"
 }

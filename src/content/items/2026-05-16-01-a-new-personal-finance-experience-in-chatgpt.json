@@ -1,14 +1,13 @@
 {
   "title": "A new personal finance experience in ChatGPT",
   "url": "https://openai.com/index/personal-finance-chatgpt",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-16T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "A new personal finance experience in ChatGPT",
-  "whyItMatters": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+  "whyItMatters": "OpenAI published an update relevant to practical tooling and usage. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-16"
 }

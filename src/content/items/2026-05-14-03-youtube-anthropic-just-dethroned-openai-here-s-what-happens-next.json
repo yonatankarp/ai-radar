@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-14T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "YouTube: Anthropic Just Dethroned OpenAI. Here's What Happens Next.",
-  "whyItMatters": "Nate Herk | AI Automation upload surfaced from the public channel videos page. Treat as metadata-only until transcripts are configured.",
+  "whyItMatters": "A video walkthrough relevant to current AI tooling practice. Useful for scanning the workflow, but primary docs should carry the final weight.",
   "tags": [
-    "Video/social early signal",
-    "Monitor only; do not publish as a standalone claim yet."
+    "Video signal"
   ],
   "issue": "2026-05-14"
 }

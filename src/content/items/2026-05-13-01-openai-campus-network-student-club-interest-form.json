@@ -1,14 +1,13 @@
 {
   "title": "OpenAI Campus Network: Student club interest form",
   "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-13T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "OpenAI Campus Network: Student club interest form",
-  "whyItMatters": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+  "whyItMatters": "OpenAI published an update relevant to practical tooling and usage. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-13"
 }

@@ -1,14 +1,13 @@
 {
   "title": "OpenAI launches DeployCo to help businesses build around intelligence",
   "url": "https://openai.com/index/openai-launches-the-deployment-company",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-12T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "OpenAI launches DeployCo to help businesses build around intelligence",
-  "whyItMatters": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+  "whyItMatters": "OpenAI published an update relevant to practical tooling and usage. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-12"
 }

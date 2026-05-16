@@ -1,14 +1,13 @@
 {
-  "title": "Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+  "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
   "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-  "source": "Anthropic News",
+  "source": "Anthropic",
   "discoveredAt": "2026-05-11T08:00:00+02:00",
   "importance": "worth-reading",
-  "summary": "Apr 27, 2026 Announcements Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-  "whyItMatters": "Anthropic News item surfaced from official page.",
+  "summary": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+  "whyItMatters": "Anthropic published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-11"
 }

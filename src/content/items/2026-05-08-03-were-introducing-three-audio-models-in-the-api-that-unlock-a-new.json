@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-08T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "We’re introducing three audio models in the API that unlock a new class of voice apps for developers.",
-  "whyItMatters": "External link: https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/ · Reddit signal: score 200, comments 27, upvote ratio 0.98",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Monitor only; do not publish as a standalone claim yet."
+    "Community signal"
   ],
   "issue": "2026-05-08"
 }

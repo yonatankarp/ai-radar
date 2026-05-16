@@ -1,14 +1,13 @@
 {
   "title": "How ChatGPT learns about the world while protecting privacy",
   "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-09T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "How ChatGPT learns about the world while protecting privacy",
-  "whyItMatters": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+  "whyItMatters": "OpenAI published an update relevant to lab/model release. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Lab/model release",
-    "Read primary source and watch for ecosystem impact."
+    "Lab/model release"
   ],
   "issue": "2026-05-09"
 }

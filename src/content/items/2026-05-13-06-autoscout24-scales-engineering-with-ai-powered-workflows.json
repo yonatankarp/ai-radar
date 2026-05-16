@@ -1,14 +1,13 @@
 {
   "title": "AutoScout24 scales engineering with AI-powered workflows",
   "url": "https://openai.com/index/autoscout24",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-13T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "AutoScout24 scales engineering with AI-powered workflows",
-  "whyItMatters": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+  "whyItMatters": "OpenAI published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-13"
 }

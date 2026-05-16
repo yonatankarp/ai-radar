@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-11T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
-  "whyItMatters": "I recently published [MTP quants of Qwen 3.6 27B](https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/) and I was suprised by the reports here on reddit, and on HF, of users who were experiencing worst speed with speculative inference than without. This did not match what I was seeing, but when I tried to rep…",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Verify against primary/source links before amplifying."
+    "Community signal"
   ],
   "issue": "2026-05-11"
 }

@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-06T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "AI agents vs AI chatbots: what are companies actually using in production today?",
-  "whyItMatters": "It feels like everyone is talking about AI agents right now, but when I look at actual production systems, most companies still seem to rely heavily on chatbots or assistant-style tools. From what I’ve seen, chatbots still handle a lot of repetitive workflows, while agents are mostly used in more controlled environments where they can execute specific tasks…",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Verify against primary/source links before amplifying."
+    "Community signal"
   ],
   "issue": "2026-05-06"
 }

@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-05T08:00:00+02:00",
   "importance": "critical",
   "summary": "How General Intelligence used agents to build an agent platform on Vercel",
-  "whyItMatters": "General Intelligence on Vercel 8-person team (5 engineers) shipping 10 PRs and 70+ commits per engineer, per day 4,000+ preview branches with ~100 parallel app versions running at any moment 90% of SRE work automated through Vercel and their own agent (Cofounder) Cofounder launches with a managed Vercel account for every customer General Intelligence is bui…",
+  "whyItMatters": "This source is relevant to agentic ai and workflow. The public link is included for context and verification.",
   "tags": [
     "Agentic AI / workflow"
   ],

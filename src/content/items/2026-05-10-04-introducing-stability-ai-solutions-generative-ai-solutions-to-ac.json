@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-10T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "Introducing Stability AI Solutions: Generative AI Solutions to Accelerate Enterprise Creative Production",
-  "whyItMatters": "Stability AI News item surfaced from official page.",
+  "whyItMatters": "Stability AI News published an update relevant to lab/model release. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Lab/model release",
-    "Read primary source and watch for ecosystem impact."
+    "Lab/model release"
   ],
   "issue": "2026-05-10"
 }

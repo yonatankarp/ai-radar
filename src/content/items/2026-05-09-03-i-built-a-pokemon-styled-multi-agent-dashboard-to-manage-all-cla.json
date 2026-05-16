@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-09T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "I built a Pokémon-styled multi-agent dashboard to manage all Claude Code sessions",
-  "whyItMatters": "Like many others here, I got frustrated with managing all my different claude/codex sessions, so i built Pokegents, which is an open source multi-agent workspace for coding agents. It has a Pokemon-themed dashboard/chat interface plus a local orchestration server for managing agent sessions (currently supports Claude Code in iTerm2, plus Claude and Codex th…",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Verify against primary/source links before amplifying."
+    "Community signal"
   ],
   "issue": "2026-05-09"
 }

@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-05T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Feedback-Normalized Developer Memory for Reinforcement-Learning Coding Agents: A Safety-Gated MCP Architecture",
-  "whyItMatters": "Large language model (LLM) coding agents increasingly operate over repositories, terminals, tests, and execution traces across long software-engineering episodes. Persistent memory is useful, but static vector stores or generic retrieval-augmented generation (RAG) are insufficient for reinforcement-learning (RL) code development, where small details can alt…",
+  "whyItMatters": "A research item relevant to agentic ai and workflow. Worth scanning for methods, benchmarks, or implementation details that may transfer into practice.",
   "tags": [
     "Agentic AI / workflow"
   ],

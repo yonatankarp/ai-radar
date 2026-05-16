@@ -1,14 +1,13 @@
 {
   "title": "Sea's View on the Future of Agentic Software Development with Codex",
   "url": "https://openai.com/index/sea-david-chen",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-15T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Sea's View on the Future of Agentic Software Development with Codex",
-  "whyItMatters": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+  "whyItMatters": "OpenAI published an update relevant to agentic ai and workflow. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-15"
 }

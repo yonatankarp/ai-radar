@@ -7,8 +7,7 @@
   "summary": "Welcome to the Datasette blog",
   "whyItMatters": "Welcome to the Datasette blog",
   "tags": [
-    "Practical tooling / usage",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-14"
 }

@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-16T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "MATS 9 Retrospective & Advice",
-  "whyItMatters": "I couldn’t find a recent write-up from a MATS alum about what attending MATS was like, so this is the thing that I wish I had. I attended MATS from January to March 2026, on Team Shard with Alex Turner and Alex Cloud. It was a great time! Applications for MATS are basically on a rolling basis nowadays, and I can strongly recommend applying (to multiple stre…",
+  "whyItMatters": "This source is relevant to agentic ai and workflow. The public link is included for context and verification.",
   "tags": [
-    "Agentic AI / workflow",
-    "Try or inspect docs/changelog if it touches current workflows."
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-16"
 }

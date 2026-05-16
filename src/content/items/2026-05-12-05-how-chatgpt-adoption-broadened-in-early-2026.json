@@ -1,14 +1,13 @@
 {
   "title": "How ChatGPT adoption broadened in early 2026",
   "url": "https://openai.com/signals/research/2026q1-update",
-  "source": "OpenAI News",
+  "source": "OpenAI",
   "discoveredAt": "2026-05-12T08:00:00+02:00",
   "importance": "watchlist",
   "summary": "How ChatGPT adoption broadened in early 2026",
-  "whyItMatters": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+  "whyItMatters": "OpenAI published an update relevant to lab/model release. Read the source for details, limitations, and practical impact.",
   "tags": [
-    "Lab/model release",
-    "Read primary source and watch for ecosystem impact."
+    "Lab/model release"
   ],
   "issue": "2026-05-12"
 }

@@ -5,10 +5,9 @@
   "discoveredAt": "2026-05-07T08:00:00+02:00",
   "importance": "worth-reading",
   "summary": "Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.",
-  "whyItMatters": "One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, \"someone's gotta baby…",
+  "whyItMatters": "A community signal worth treating as early evidence, not a settled claim. Use it to spot demand and then verify against the linked project or primary source.",
   "tags": [
-    "Community/social early signal",
-    "Monitor only; do not publish as a standalone claim yet."
+    "Community signal"
   ],
   "issue": "2026-05-07"
 }
