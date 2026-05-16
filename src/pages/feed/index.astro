@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const items = (await getCollection('items'))
+  .sort((a, b) => new Date(b.data.discoveredAt).valueOf() - new Date(a.data.discoveredAt).valueOf());
+---
+<BaseLayout title="Feed" description="Curated AI Radar feed.">
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">Live curated feed</span>
+        <h1>Feed</h1>
+      </div>
+    </div>
+    <div class="item-list">
+      {items.map((item) => (
+        <article class="item">
+          <span class="pill">{item.data.importance}</span>
+          <h2><a href={item.data.url}>{item.data.title}</a></h2>
+          <p>{item.data.summary}</p>
+          <p><strong>Why it matters:</strong> {item.data.whyItMatters}</p>
+          <div class="meta">
+            <span>{item.data.source}</span>
+            <span>{new Date(item.data.discoveredAt).toLocaleDateString('en-GB')}</span>
+            {item.data.tags.map((tag) => <span>{tag}</span>)}
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

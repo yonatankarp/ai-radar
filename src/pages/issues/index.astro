@@ -1,0 +1,29 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const issues = (await getCollection('issues', ({ data }) => data.status === 'published'))
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+---
+<BaseLayout title="Issues" description="AI Radar issue archive.">
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">Daily briefings</span>
+        <h1>Issues</h1>
+      </div>
+    </div>
+    <div class="item-list">
+      {issues.map((issue) => (
+        <article class="item">
+          <h2><a href={`/issues/${issue.id.replace(/\.md$/, '')}/`}>{issue.data.title}</a></h2>
+          <p>{issue.data.description}</p>
+          <div class="meta">
+            <span>{issue.data.publishedAt.toLocaleDateString('en-GB')}</span>
+            {issue.data.tags.map((tag) => <span>{tag}</span>)}
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

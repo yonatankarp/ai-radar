@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const issues = await getCollection('issues', ({ data }) => data.status === 'published');
+  return issues.map((issue) => ({ params: { slug: issue.id.replace(/\.md$/, '') }, props: { issue } }));
+}
+
+const { issue } = Astro.props;
+const { Content } = await render(issue);
+---
+<BaseLayout title={issue.data.title} description={issue.data.description}>
+  <article class="issue-body">
+    <span class="eyebrow">{issue.data.publishedAt.toLocaleDateString('en-GB')}</span>
+    <h1>{issue.data.title}</h1>
+    <p>{issue.data.description}</p>
+    <Content />
+  </article>
+</BaseLayout>
