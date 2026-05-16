@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { formatIssueDate } from '../../lib/radar';
+import { classifyItem, formatIssueDate, sourceGroups } from '../../lib/radar';
 
 const items = (await getCollection('items'))
   .sort((a, b) => new Date(b.data.discoveredAt).valueOf() - new Date(a.data.discoveredAt).valueOf());
@@ -17,18 +17,26 @@ const tags = [...new Set(items.flatMap((item) => item.data.tags))].sort((a, b) =
       </div>
     </div>
 
-    <div class="filter-bar" aria-label="Filter feed by tag">
-      <button class="filter-chip is-active" type="button" data-filter="all">All</button>
-      {tags.map((tag) => (
-        <button class="filter-chip" type="button" data-filter={tag}>{tag}</button>
-      ))}
+    <div class="feed-controls">
+      <div class="source-legend" aria-label="Source color legend">
+        {sourceGroups.map((group) => (
+          <span data-source-key={group.key}>{group.shortLabel}</span>
+        ))}
+      </div>
+
+      <div class="filter-bar" aria-label="Filter feed by tag">
+        <button class="filter-chip is-active" type="button" data-filter="all">All</button>
+        {tags.map((tag) => (
+          <button class="filter-chip" type="button" data-filter={tag}>{tag}</button>
+        ))}
+      </div>
     </div>
 
     <div class="timeline" data-feed-timeline>
       {items.map((item) => {
         const date = new Date(item.data.discoveredAt);
         return (
-          <article class="timeline-item" data-tags={item.data.tags.join('|')}>
+          <article class="timeline-item" data-tags={item.data.tags.join('|')} data-source={classifyItem(item)}>
             <time datetime={item.data.discoveredAt}>{formatIssueDate(date)}</time>
             <div class="timeline-card">
               <div class="timeline-topline">
