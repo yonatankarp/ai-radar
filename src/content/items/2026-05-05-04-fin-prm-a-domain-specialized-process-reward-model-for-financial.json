@@ -1,0 +1,13 @@
+{
+  "title": "Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models",
+  "url": "https://arxiv.org/abs/2508.15202",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-05-05T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Fin-PRM: A Domain-Specialized Process Reward Model for Financial Reasoning in Large Language Models",
+  "whyItMatters": "Process Reward Models (PRMs) supervise intermediate reasoning steps in large language models (LLMs), but existing PRMs are mainly trained on general-domain data and struggle with the structured, symbolic, and fact-sensitive nature of financial reasoning. Financial tasks require not only correct final answers but also verifiable intermediate steps grounded i…",
+  "tags": [
+    "Research / models"
+  ],
+  "issue": "2026-05-05"
+}

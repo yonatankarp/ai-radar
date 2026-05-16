@@ -1,0 +1,14 @@
+{
+  "title": "Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.",
+  "url": "https://www.reddit.com/r/artificial/comments/1t5ewzi/spent_two_days_at_the_ai_agents_conference_in_nyc/",
+  "source": "r/artificial",
+  "discoveredAt": "2026-05-07T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Spent two days at the AI Agents Conference in NYC. Most of the companies there were betting on the wrong moat.",
+  "whyItMatters": "One speaker (a VC) said his number for evaluating AI-native startups is ARR per engineer, and that the number ought to be going up. Almost every talk and every booth at the AI Agents Conference was selling a fix for something that broke this year when agents hit production. Observability, governance, supervisor agents, data substrates, \"someone's gotta baby…",
+  "tags": [
+    "Community/social early signal",
+    "Monitor only; do not publish as a standalone claim yet."
+  ],
+  "issue": "2026-05-07"
+}

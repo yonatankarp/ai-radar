@@ -1,0 +1,14 @@
+{
+  "title": "Welcome to the Datasette blog",
+  "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/",
+  "source": "Simon Willison",
+  "discoveredAt": "2026-05-14T08:00:00+02:00",
+  "importance": "watchlist",
+  "summary": "Welcome to the Datasette blog",
+  "whyItMatters": "Welcome to the Datasette blog",
+  "tags": [
+    "Practical tooling / usage",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-14"
+}

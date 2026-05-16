@@ -1,0 +1,14 @@
+{
+  "title": "I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider & congressional trades, short data, FRED",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te2jko/i_built_a_selfhosted_opensource_mcp_server_that/",
+  "source": "r/LocalLLaMA",
+  "discoveredAt": "2026-05-16T08:00:00+02:00",
+  "importance": "critical",
+  "summary": "I built a self-hosted open-source MCP server that gives any local LLM real financial data — SEC filings, 13F, insider & congressional trades, short data, FRED",
+  "whyItMatters": "One thing missing when running local models as agents: real, current data. So I built Equibles — a self-hosted MCP server that scrapes and serves public U.S. financial data and exposes it as MCP tools, so any MCP-capable client (Claude Code/Desktop, Cursor, or your own local-model agent loop) can query it directly. No cloud dependency, no API keys, no telem…",
+  "tags": [
+    "Community/social early signal",
+    "Verify against primary/source links before amplifying."
+  ],
+  "issue": "2026-05-16"
+}

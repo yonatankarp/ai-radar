@@ -1,0 +1,14 @@
+{
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-05-12T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "whyItMatters": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "tags": [
+    "Practical tooling / usage",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-12"
+}

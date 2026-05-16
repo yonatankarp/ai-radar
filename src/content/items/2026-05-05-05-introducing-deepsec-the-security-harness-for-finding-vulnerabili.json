@@ -1,0 +1,13 @@
+{
+  "title": "Introducing deepsec: The security harness for finding vulnerabilities in your codebase",
+  "url": "https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-05T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Introducing deepsec: The security harness for finding vulnerabilities in your codebase",
+  "whyItMatters": "Today we’re open sourcing deepsec : a security harness powered by coding agents. It runs on your own infrastructure and surfaces hard-to-find issues in large codebases. You can run deepsec on your laptop without setting up a cloud service for privileged source code access. For inference, you can use your existing Claude or Codex subscription without any add…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-05"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Building a safe, effective sandbox to enable Codex on Windows",
+  "url": "https://openai.com/index/building-codex-windows-sandbox",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-14T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Building a safe, effective sandbox to enable Codex on Windows",
+  "whyItMatters": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+  "tags": [
+    "Agentic AI / workflow",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-14"
+}

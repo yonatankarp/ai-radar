@@ -1,0 +1,14 @@
+{
+  "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+  "url": "https://arxiv.org/abs/2605.13848",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-15T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+  "whyItMatters": "Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike p…",
+  "tags": [
+    "Agentic AI / workflow",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-15"
+}

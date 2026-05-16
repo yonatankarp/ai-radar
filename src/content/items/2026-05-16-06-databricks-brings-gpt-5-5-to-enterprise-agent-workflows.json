@@ -1,0 +1,14 @@
+{
+  "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "url": "https://openai.com/index/databricks",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-16T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "Databricks brings GPT-5.5 to enterprise agent workflows",
+  "whyItMatters": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+  "tags": [
+    "Agentic AI / workflow",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-16"
+}

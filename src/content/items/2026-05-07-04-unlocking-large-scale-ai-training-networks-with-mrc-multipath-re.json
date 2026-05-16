@@ -1,0 +1,14 @@
+{
+  "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+  "url": "https://openai.com/index/mrc-supercomputer-networking",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-07T08:00:00+02:00",
+  "importance": "watchlist",
+  "summary": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+  "whyItMatters": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+  "tags": [
+    "Lab/model release",
+    "Read primary source and watch for ecosystem impact."
+  ],
+  "issue": "2026-05-07"
+}

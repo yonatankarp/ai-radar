@@ -1,0 +1,14 @@
+{
+  "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-05-07T08:00:00+02:00",
+  "importance": "watchlist",
+  "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "whyItMatters": "vLLM V0 to V1: Correctness Before Corrections in RL",
+  "tags": [
+    "Practical tooling / usage",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-07"
+}

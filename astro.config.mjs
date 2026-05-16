@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://ai-radar.yonatankarp.com',
+  site: 'https://yonatankarp.github.io',
+  base: '/ai-radar',
   output: 'static'
 });

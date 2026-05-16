@@ -1,0 +1,14 @@
+{
+  "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+  "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-05-09T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+  "whyItMatters": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+  "tags": [
+    "Practical tooling / usage",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-09"
+}

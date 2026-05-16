@@ -7,6 +7,8 @@ const issues = (await getCollection('issues', ({ data }) => data.status === 'pub
 const items = (await getCollection('items'))
   .sort((a, b) => new Date(b.data.discoveredAt).valueOf() - new Date(a.data.discoveredAt).valueOf());
 const latestIssue = issues[0];
+const rawBase = import.meta.env.BASE_URL;
+const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
 ---
 <BaseLayout title="Curated AI briefings" description="A public feed of AI news important enough to matter.">
   <section class="hero">
@@ -23,7 +25,7 @@ const latestIssue = issues[0];
         <>
           <h2>{latestIssue.data.title}</h2>
           <p>{latestIssue.data.description}</p>
-          <a href={`/issues/${latestIssue.id.replace(/\.md$/, '')}/`}>Read the issue</a>
+          <a href={`${base}issues/${latestIssue.id.replace(/\.md$/, '')}/`}>Read the issue</a>
         </>
       ) : (
         <p>No published issues yet.</p>
@@ -37,7 +39,7 @@ const latestIssue = issues[0];
         <span class="eyebrow">Curated feed</span>
         <h2>Important enough to publish</h2>
       </div>
-      <a href="/feed/">View all</a>
+      <a href={`${base}feed/`}>View all</a>
     </div>
     <div class="item-list">
       {items.slice(0, 6).map((item) => (

@@ -1,0 +1,13 @@
+{
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-05T08:00:00+02:00",
+  "importance": "watchlist",
+  "summary": "How OpenAI delivers low-latency voice AI at scale",
+  "whyItMatters": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+  "tags": [
+    "Lab/model release"
+  ],
+  "issue": "2026-05-05"
+}

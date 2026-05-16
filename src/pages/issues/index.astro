@@ -4,6 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const issues = (await getCollection('issues', ({ data }) => data.status === 'published'))
   .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf());
+const rawBase = import.meta.env.BASE_URL;
+const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
 ---
 <BaseLayout title="Issues" description="AI Radar issue archive.">
   <section class="section">
@@ -16,7 +18,7 @@ const issues = (await getCollection('issues', ({ data }) => data.status === 'pub
     <div class="item-list">
       {issues.map((issue) => (
         <article class="item">
-          <h2><a href={`/issues/${issue.id.replace(/\.md$/, '')}/`}>{issue.data.title}</a></h2>
+          <h2><a href={`${base}issues/${issue.id.replace(/\.md$/, '')}/`}>{issue.data.title}</a></h2>
           <p>{issue.data.description}</p>
           <div class="meta">
             <span>{issue.data.publishedAt.toLocaleDateString('en-GB')}</span>

@@ -1,0 +1,14 @@
+{
+  "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+  "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-05-08T08:00:00+02:00",
+  "importance": "worth-reading",
+  "summary": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+  "whyItMatters": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+  "tags": [
+    "Practical tooling / usage",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-08"
+}

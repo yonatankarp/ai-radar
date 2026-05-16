@@ -8,6 +8,8 @@ const {
   title,
   description = 'Curated AI signal, ranked by importance.'
 } = Astro.props;
+const rawBase = import.meta.env.BASE_URL;
+const base = rawBase.endsWith('/') ? rawBase : `${rawBase}/`;
 ---
 <!doctype html>
 <html lang="en">
@@ -16,19 +18,19 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <title>{title} · AI Radar</title>
-    <link rel="alternate" type="application/rss+xml" title="AI Radar RSS" href="/rss.xml" />
+    <link rel="alternate" type="application/rss+xml" title="AI Radar RSS" href={`${base}rss.xml`} />
   </head>
   <body>
     <div class="shell">
       <header class="site-header">
-        <a class="brand" href="/" aria-label="AI Radar home">
+        <a class="brand" href={base} aria-label="AI Radar home">
           <span class="brand-mark"></span>
           <span>AI Radar</span>
         </a>
         <nav aria-label="Primary navigation">
-          <a href="/feed/">Feed</a>
-          <a href="/issues/">Issues</a>
-          <a href="/rss.xml">RSS</a>
+          <a href={`${base}feed/`}>Feed</a>
+          <a href={`${base}issues/`}>Issues</a>
+          <a href={`${base}rss.xml`}>RSS</a>
         </nav>
       </header>
       <main>

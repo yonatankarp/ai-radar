@@ -1,0 +1,14 @@
+{
+  "title": "AI Gateway production index",
+  "url": "https://vercel.com/blog/ai-gateway-production-index",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-14T08:00:00+02:00",
+  "importance": "critical",
+  "summary": "AI Gateway production index",
+  "whyItMatters": "Ask which AI model is best, and the answer changes before the ink dries. That's what happens in an industry where new models are released weekly. Every benchmark measures a different race, and every race crowns its own winner, but Vercel has a unique view of the industry through production workloads. AI Gateway serves tens of trillions of tokens across hund…",
+  "tags": [
+    "Agentic AI / workflow",
+    "Try or inspect docs/changelog if it touches current workflows."
+  ],
+  "issue": "2026-05-14"
+}
