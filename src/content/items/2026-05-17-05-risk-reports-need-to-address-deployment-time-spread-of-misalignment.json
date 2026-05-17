@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-17T08:00:00+02:00",
   "importance": "critical",
   "summary": "Risk reports need to address deployment-time spread of misalignment",
-  "whyItMatters": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible route to consistent adversarial misalignment in the near future…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-05-17"
 }

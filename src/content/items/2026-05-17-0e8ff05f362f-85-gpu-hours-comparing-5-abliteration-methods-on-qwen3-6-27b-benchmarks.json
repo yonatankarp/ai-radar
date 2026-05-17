@@ -1,0 +1,13 @@
+{
+  "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
+  "source": "r/LocalLLaMA",
+  "discoveredAt": "2026-05-17T13:18:47.385Z",
+  "importance": "critical",
+  "summary": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
+  "whyItMatters": "I've been building [Abliterlitics](https://github.com/dreamfast/abliterlitics), an open-source abliteration forensics toolkit. The idea is straightforward: take the same base model, compare the different abliteration techniques others have applied, then measure what actually changed using benchmarks, safety evaluation, distribution shift, and weight-level a…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-17"
+}
