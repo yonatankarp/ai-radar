@@ -1,0 +1,13 @@
+{
+  "title": "Risk reports need to address deployment-time spread of misalignment",
+  "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of",
+  "source": "Alignment Forum",
+  "discoveredAt": "2026-05-17T08:00:00+02:00",
+  "importance": "critical",
+  "summary": "Risk reports need to address deployment-time spread of misalignment",
+  "whyItMatters": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible route to consistent adversarial misalignment in the near future…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-17"
+}
