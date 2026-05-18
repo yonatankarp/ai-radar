@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-18T04:18:24.504Z",
   "importance": "critical",
   "summary": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-  "whyItMatters": "Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent Harness paradigm addresses this by inserting domain-specific orchestration middleware that manages tool lif…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
