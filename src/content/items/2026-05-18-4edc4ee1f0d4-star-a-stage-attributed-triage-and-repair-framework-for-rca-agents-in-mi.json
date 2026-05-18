@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-18T04:18:24.503Z",
   "importance": "critical",
   "summary": "STAR: A Stage-attributed Triage and Repair framework for RCA Agents in Microservices",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "LLM-based root cause analysis (RCA) agents have recently emerged as a promising paradigm for incident diagnosis in microservice AIOps. However, their reliability remains fragile: an error in early evidence collection, hypothesis formulation, or causal analysis can propagate through the reasoning trace and eventually corrupt the final diagnosis. In this pape…",
   "tags": [
     "Agentic AI / workflow"
   ],
