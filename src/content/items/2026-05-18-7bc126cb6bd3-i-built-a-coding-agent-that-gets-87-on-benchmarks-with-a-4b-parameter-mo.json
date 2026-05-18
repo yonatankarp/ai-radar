@@ -1,0 +1,13 @@
+{
+  "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
+  "source": "r/LocalLLaMA",
+  "discoveredAt": "2026-05-18T10:18:30.503Z",
+  "importance": "critical",
+  "summary": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+  "whyItMatters": "I was frustrated that every coding agent (OpenCode, Cursor, Claude Code) assumes you're running GPT-5.4 or Claude Opus. If you try them with a local model like Gemma or Qwen they fall apart. I find that often tool calls fail, context overflows, multi-step tasks collapse. So I built SmallCode. It's designed from the ground up for small local models. **The re…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-18"
+}
