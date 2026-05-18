@@ -1,0 +1,13 @@
+{
+  "title": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
+  "url": "https://arxiv.org/abs/2605.15777",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-18T04:18:24.503Z",
+  "importance": "critical",
+  "summary": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
+  "whyItMatters": "Computer-Using Agents (CUAs) are rapidly extending large language models (LLMs) beyond text-based reasoning toward action execution in more complex environments, such as web browsers and graphical user interfaces (GUIs). However, existing web and GUI agent benchmarks often rely on simplified settings, isolated tasks, or short-horizon interactions, making it…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-18"
+}

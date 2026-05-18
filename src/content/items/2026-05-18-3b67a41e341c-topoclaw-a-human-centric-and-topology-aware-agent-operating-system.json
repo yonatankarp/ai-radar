@@ -1,0 +1,13 @@
+{
+  "title": "TopoClaw: A Human-Centric and Topology-Aware Agent Operating System",
+  "url": "https://arxiv.org/abs/2605.15556",
+  "source": "arXiv cs.HC recent",
+  "discoveredAt": "2026-05-18T04:18:24.502Z",
+  "importance": "critical",
+  "summary": "TopoClaw: A Human-Centric and Topology-Aware Agent Operating System",
+  "whyItMatters": "Large language models (LLMs) have evolved AI assistants into autonomous reasoning engines that maintain context, invoke tools, and pursue long-horizon tasks. This has spurred Agent Operating Systems (Agent OS) as kernel-like layers for lifecycle management, memory, scheduling, and access control. Yet most designs remain agent-centric, treating the OS as a s…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-18"
+}

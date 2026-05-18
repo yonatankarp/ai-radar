@@ -1,0 +1,13 @@
+{
+  "title": "ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing",
+  "url": "https://arxiv.org/abs/2605.15625",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-18T04:18:24.503Z",
+  "importance": "critical",
+  "summary": "ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing",
+  "whyItMatters": "We introduce ColPackAgent, an agent framework that autonomously runs Monte Carlo simulations of colloidal packing through a Model Context Protocol (MCP) tool server and an agent skill, whether as a standalone agent or inside an existing agent system. By harnessing the MCP server and agent skill, ColPackAgent executes a structured workflow for colloidal pack…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-18"
+}
