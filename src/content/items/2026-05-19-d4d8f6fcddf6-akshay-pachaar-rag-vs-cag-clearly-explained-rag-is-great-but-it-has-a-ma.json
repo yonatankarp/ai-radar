@@ -1,0 +1,13 @@
+{
+  "title": "@akshay_pachaar: RAG vs. CAG, clearly explained! RAG is great, but it has a major problem: Every query hits the vector DB. Even for stati",
+  "url": "https://x.com/akshay_pachaar/status/2056714042455343160",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-05-19T19:18:52.263Z",
+  "importance": "critical",
+  "summary": "@akshay_pachaar: RAG vs. CAG, clearly explained! RAG is great, but it has a major problem: Every query hits the vector DB. Even for stati",
+  "whyItMatters": "RAG vs. CAG, clearly explained! RAG is great, but it has a major problem: Every query hits the vector DB. Even for static information that hasn't changed in months. This is expensive, slow, and unnecessary. Cache-Augmented Generation (CAG) addresses this issue by enabling the model to \"remember\" static information directly in its key-value (KV) memory. In f…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-19"
+}

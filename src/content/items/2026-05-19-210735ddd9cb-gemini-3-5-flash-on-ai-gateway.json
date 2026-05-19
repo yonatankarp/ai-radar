@@ -1,0 +1,13 @@
+{
+  "title": "Gemini 3.5 Flash on AI Gateway",
+  "url": "https://vercel.com/changelog/gemini-3-5-flash-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-19T19:18:52.265Z",
+  "importance": "critical",
+  "summary": "Gemini 3.5 Flash on AI Gateway",
+  "whyItMatters": "Gemini 3.5 Flash is now available on Vercel AI Gateway . This model has improved coding proficiency and parallel agentic execution loops versus previous Flash versions. It also brings improvements to core reasoning, instruction following, and multi-turn coherence, with stronger performance on complex tasks and higher-quality reasoning traces in thinking mod…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-19"
+}
