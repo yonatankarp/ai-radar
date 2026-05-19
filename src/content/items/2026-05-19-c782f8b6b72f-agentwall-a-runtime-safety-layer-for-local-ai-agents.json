@@ -1,0 +1,13 @@
+{
+  "title": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+  "url": "https://arxiv.org/abs/2605.16265",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-19T04:18:33.197Z",
+  "importance": "critical",
+  "summary": "AgentWall: A Runtime Safety Layer for Local AI Agents",
+  "whyItMatters": "The safety of autonomous AI agents is increasingly recognized as a critical open problem. As agents transition from passive text generators to active actors capable of executing shell commands, modifying files, calling APIs, and browsing the web, the consequences of unsafe or adversarially manipulated behavior become immediate and tangible. Existing AI safe…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-19"
+}

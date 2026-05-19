@@ -1,0 +1,13 @@
+{
+  "title": "favorite Agentic Coding Harness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th5t1b/favorite_agentic_coding_harness/",
+  "source": "r/LocalLLaMA",
+  "discoveredAt": "2026-05-19T04:18:33.198Z",
+  "importance": "critical",
+  "summary": "favorite Agentic Coding Harness",
+  "whyItMatters": "So far, I’ve tried Codex CLI, Claude Code, Gemini CLI, OpenCode, and recently, Pi with local models. Pi is the leanest of them all, with just four tools: read, write, edit, and bash. Its system prompt is only under 2K tokens, and it's perfect for local models. I've been trying out Qwen 27B-MXFP8 with it, and it's much better than I expected! It doesn't have…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-19"
+}

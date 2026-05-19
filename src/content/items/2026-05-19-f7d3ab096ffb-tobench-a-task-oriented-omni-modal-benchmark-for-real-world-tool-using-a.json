@@ -1,0 +1,13 @@
+{
+  "title": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+  "url": "https://arxiv.org/abs/2605.16909",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-19T04:18:33.198Z",
+  "importance": "critical",
+  "summary": "TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents",
+  "whyItMatters": "Tool-using agents are increasingly expected to operate across realistic professional workflows, where they must interpret multimodal inputs, coordinate external tools, inspect intermediate artifacts, and revise their actions before producing a final result. Existing benchmarks, however, often evaluate tool use, computer use, and multimodal reasoning in isol…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-19"
+}
