@@ -3,7 +3,7 @@
   "url": "https://www.langchain.com/blog/interrupt-2026-overview",
   "source": "LangChain Blog",
   "discoveredAt": "2026-05-17T08:54:51.773Z",
-  "importance": "worth-reading",
+  "importance": "critical",
   "summary": "Everything we shipped at Interrupt",
   "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
