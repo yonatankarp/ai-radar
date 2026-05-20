@@ -1,0 +1,13 @@
+{
+  "title": "Grok Build 0.1 now available on Vercel AI Gateway",
+  "url": "https://vercel.com/changelog/grok-build-0-1-now-available-on-vercel-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-20T19:18:38.054Z",
+  "importance": "critical",
+  "summary": "Grok Build 0.1 now available on Vercel AI Gateway",
+  "whyItMatters": "Grok Build 0.1 is now available on Vercel AI Gateway . This is a beta coding model trained for agentic coding, currently in early access, and powers the Grok Build CLI app. Reasoning effort is not configurable, and there is no non-reasoning mode. To use Grok Build 0.1, set model to xai/grok-build-0.1 in the AI SDK . AI Gateway provides a unified API for cal…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-20"
+}
