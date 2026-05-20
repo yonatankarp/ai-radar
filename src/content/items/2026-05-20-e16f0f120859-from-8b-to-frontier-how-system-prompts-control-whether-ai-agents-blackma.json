@@ -1,0 +1,13 @@
+{
+  "title": "From 8B to Frontier: How System Prompts Control Whether AI Agents Blackmail, Leak, and Kill",
+  "url": "https://www.lesswrong.com/posts/GviHfFBB9tsefmDkG/from-8b-to-frontier-how-system-prompts-control-whether-ai",
+  "source": "LessWrong",
+  "discoveredAt": "2026-05-20T10:18:33.523Z",
+  "importance": "critical",
+  "summary": "From 8B to Frontier: How System Prompts Control Whether AI Agents Blackmail, Leak, and Kill",
+  "whyItMatters": "Sequel to Blackmail at 8 Billion Parameters . Funded by a BlueDot Impact rapid grant . TL;DR We extended our sub-frontier agentic misalignment study to 22 models from 9 developers, 3 harm scenarios (blackmail, espionage, murder), and 5 instruction conditions (safety, monitored, baseline, unmonitored, permissive), and we learned three interesting findings. T…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-20"
+}
