@@ -1,0 +1,13 @@
+{
+  "title": "@NainsiDwiv50980: Claude Code feels completely different once you install this. Anthropic quietly released an official plugin called claud",
+  "url": "https://x.com/NainsiDwiv50980/status/2057038989962653805",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-05-20T13:18:34.678Z",
+  "importance": "critical",
+  "summary": "@NainsiDwiv50980: Claude Code feels completely different once you install this. Anthropic quietly released an official plugin called claud",
+  "whyItMatters": "Claude Code feels completely different once you install this. Anthropic quietly released an official plugin called claude-code-setup and it basically turns Claude Code from “pretty good” into an actual AI dev environment. It scans your project and recommends: → hooks → skills → MCP servers → subagents → automations Then sets everything up step-by-step for y…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-20"
+}
