@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-20T04:18:29.797Z",
   "importance": "critical",
   "summary": "Formal Skill: Programmable Runtime Skills for Efficient and Accurate LLM Agents",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Large Language Model (LLM) agents increasingly act inside real workspaces, where tools and skills determine whether model reasoning becomes reliable action. Existing skills remain largely informal: Markdown skills and instruction packs encode procedures as long natural-language documents, while function calling, Model Context Protocol (MCP) servers, and fra…",
   "tags": [
     "Agentic AI / workflow"
   ],
