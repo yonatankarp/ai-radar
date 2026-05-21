@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-21T13:18:38.048Z",
   "importance": "critical",
   "summary": "@heygurisingh: 10 GitHub repos so good they shouldn't be free. 1. AutoHedge An autonomous hedge fund built in Python with four AI agent",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "10 GitHub repos so good they shouldn't be free. 1. AutoHedge An autonomous hedge fund built in Python with four AI agents: a director generates investment theses, a quant validates them, a risk manager decides position size, and an execution agent places orders. Operates live on Solana. With 'pip install -U autohedge', you can start trading immediately. rep…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-05-21"
 }
