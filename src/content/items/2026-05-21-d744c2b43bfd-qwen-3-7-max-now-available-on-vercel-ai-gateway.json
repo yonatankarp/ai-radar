@@ -1,0 +1,13 @@
+{
+  "title": "Qwen 3.7 Max now available on Vercel AI Gateway",
+  "url": "https://vercel.com/changelog/qwen-3-7-max-now-available-on-vercel-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-21T16:18:50.799Z",
+  "importance": "critical",
+  "summary": "Qwen 3.7 Max now available on Vercel AI Gateway",
+  "whyItMatters": "Qwen 3.7 Max from Alibaba is now available on Vercel AI Gateway . The model is designed as an agent foundation, with capabilities spanning coding, office workflow automation, and long-horizon autonomous execution. Qwen 3.7 Max shows improvements in frontend prototyping and complex multi-file engineering. The model supports office and productivity tasks thro…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-21"
+}
