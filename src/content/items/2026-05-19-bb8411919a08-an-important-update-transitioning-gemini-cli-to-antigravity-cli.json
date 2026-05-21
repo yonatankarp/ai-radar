@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-19T19:18:52.267Z",
   "importance": "critical",
   "summary": "An important update: Transitioning Gemini CLI to Antigravity CLI",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise cus…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-19"
 }

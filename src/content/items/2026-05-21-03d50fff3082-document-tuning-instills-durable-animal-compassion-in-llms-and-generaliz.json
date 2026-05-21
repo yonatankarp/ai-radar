@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-21T04:18:29.808Z",
   "importance": "critical",
   "summary": "Document-tuning instills durable animal compassion in LLMs (and generalizes to humans)",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Note: This post focuses on the alignment implications. Our EA Forum, focusing on the implications for animal welfare, is here. Jasmine Brazilek & Miles Tidmarsh: Compassion Aligned Machine Learning Preprint, March 2026: Full paper | HuggingFace resources | ANIMA benchmark TL;DR Instruction-tuning and Reinforcement learning are effective in certain specific…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-21"
 }
