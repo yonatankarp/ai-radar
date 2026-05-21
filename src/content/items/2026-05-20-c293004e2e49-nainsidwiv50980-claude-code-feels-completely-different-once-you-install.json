@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-20T13:18:34.678Z",
   "importance": "critical",
   "summary": "@NainsiDwiv50980: Claude Code feels completely different once you install this. Anthropic quietly released an official plugin called claud",
-  "whyItMatters": "Claude Code feels completely different once you install this. Anthropic quietly released an official plugin called claude-code-setup and it basically turns Claude Code from “pretty good” into an actual AI dev environment. It scans your project and recommends: → hooks → skills → MCP servers → subagents → automations Then sets everything up step-by-step for y…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Community/social early signal"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-20"
 }
