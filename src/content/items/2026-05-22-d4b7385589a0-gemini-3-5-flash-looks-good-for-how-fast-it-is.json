@@ -1,0 +1,13 @@
+{
+  "title": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+  "url": "https://www.lesswrong.com/posts/WMZpPxqWEkZBBcaxf/gemini-3-5-flash-looks-good-for-how-fast-it-is",
+  "source": "LessWrong",
+  "discoveredAt": "2026-05-22T19:18:37.741Z",
+  "importance": "critical",
+  "summary": "Gemini 3.5 Flash Looks Good For How Fast It Is",
+  "whyItMatters": "Google once again has a model worth at least some consideration. Gemini 3.5 Flash is likely the best model out there at its particular speed point, as long as you don’t mind that it is a Gemini model. So for cases where speed kills, this can be a reasonable choice. Otherwise, I don’t see signs you would want to use it over Opus 4.7 or GPT-5.5. Google also h…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-22"
+}
