@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-21T16:18:50.801Z",
   "importance": "critical",
   "summary": "What am I, if not an AI?",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "TL:DR I RL fine-tuned Mistral 7B Instruct v0.3 and Llama 3.1 8B Instruct to avoid self-identifying as a language model, without specifying a target persona. Mistral converged on a single recurring persona (Catholic American woman) across most runs. Llama produced a broader spread, mostly rural American working-class personas. I evaluated the models on vario…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-21"
 }
