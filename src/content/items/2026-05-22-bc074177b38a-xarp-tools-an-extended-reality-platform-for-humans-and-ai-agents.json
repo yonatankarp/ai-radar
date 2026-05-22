@@ -1,0 +1,13 @@
+{
+  "title": "XARP Tools: An Extended Reality Platform for Humans and AI Agents",
+  "url": "https://arxiv.org/abs/2508.04108",
+  "source": "arXiv cs.HC recent",
+  "discoveredAt": "2026-05-22T04:18:25.490Z",
+  "importance": "critical",
+  "summary": "XARP Tools: An Extended Reality Platform for Humans and AI Agents",
+  "whyItMatters": "Building XR-AI research prototypes requires navigating two largely separate ecosystems. Mainstream XR development relies on C#/C++ and game engines, while AI development is centered on Python. This toolchain fragmentation slows down contributions to human-AI spatial interaction research. To broaden access to XR development in the Python ecosystem, we presen…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-22"
+}
