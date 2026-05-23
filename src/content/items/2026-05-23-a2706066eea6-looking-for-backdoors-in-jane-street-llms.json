@@ -1,0 +1,13 @@
+{
+  "title": "Looking for backdoors in Jane Street LLMs",
+  "url": "https://www.lesswrong.com/posts/a98MFPmqH54J2ayBn/looking-for-backdoors-in-jane-street-llms-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-05-23T04:18:28.970Z",
+  "importance": "critical",
+  "summary": "Looking for backdoors in Jane Street LLMs",
+  "whyItMatters": "I am going to talk about my experience in the Jane Street LLM backdoor challenge. I am sharing partial results. I managed to crack some of the models using white-box methods, after the activation/prompting approach didn't pan out. Happy to discuss better or more promising approaches. Introduction A few months ago a Dwarkesh Patel podcast episode advertised…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-23"
+}
