@@ -1,0 +1,13 @@
+{
+  "title": "How Virgin Atlantic ships faster with Codex",
+  "url": "https://openai.com/index/virgin-atlantic",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-23T01:18:27.935Z",
+  "importance": "worth-reading",
+  "summary": "How Virgin Atlantic ships faster with Codex",
+  "whyItMatters": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-05-23"
+}
