@@ -1,0 +1,13 @@
+{
+  "title": "Claude working autonomously",
+  "url": "https://www.reddit.com/r/ClaudeAI/comments/1tm9gm5/claude_working_autonomously/",
+  "source": "r/ClaudeAI",
+  "discoveredAt": "2026-05-24T13:18:37.414Z",
+  "importance": "critical",
+  "summary": "Claude working autonomously",
+  "whyItMatters": "Goodmorning, Has anyone figure out how to configure Claude so that it runs autonomously, almost like Openclaw? I wanted to figure out if it could just autonomously respond to LinkedIn messages and reach out on my behalf? I know i can do this within cowork with mcp servers and tools but didn’t know if managed agents or the SDK would be my best option to try…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-24"
+}
