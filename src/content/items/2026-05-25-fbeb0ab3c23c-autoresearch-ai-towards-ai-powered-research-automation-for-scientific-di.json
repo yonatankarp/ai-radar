@@ -1,0 +1,13 @@
+{
+  "title": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+  "url": "https://arxiv.org/abs/2605.23204",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-05-25T04:18:33.868Z",
+  "importance": "critical",
+  "summary": "AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery",
+  "whyItMatters": "Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a transition from task-level AI for science to workflow-level research automation. Yet current systems remain fra…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-25"
+}
