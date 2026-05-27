@@ -1,0 +1,13 @@
+{
+  "title": "When Is Next-Token Prediction Useful? Marginalization, Ergodicity, Mixture Identifiability, Local Sufficiency, RAG, Tools, and Programming",
+  "url": "https://arxiv.org/abs/2605.23278",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-05-27T05:30:31.851Z",
+  "importance": "worth-reading",
+  "summary": "When Is Next-Token Prediction Useful? Marginalization, Ergodicity, Mixture Identifiability, Local Sufficiency, RAG, Tools, and Programming",
+  "whyItMatters": "Language models trained on observed sequences are often described as learning the conditional distribution of the next token given previous tokens. This description is only conditionally correct. A model trained on realized token trajectories does not observe full conditional laws; it receives sampled continuations. Moreover, real language generation is con…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-27"
+}

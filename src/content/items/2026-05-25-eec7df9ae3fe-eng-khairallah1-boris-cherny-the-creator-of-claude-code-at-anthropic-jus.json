@@ -3,11 +3,11 @@
   "url": "https://x.com/eng_khairallah1/status/2058553355895763236",
   "source": "birdclaw local X/Twitter",
   "discoveredAt": "2026-05-24T22:18:36.407Z",
-  "importance": "critical",
+  "importance": "worth-reading",
   "summary": "@eng_khairallah1: Boris Cherny, the creator of Claude Code at Anthropic, just explained why most people aren't getting real results from C",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Boris Cherny, the creator of Claude Code at Anthropic, just explained why most people aren't getting real results from Claude in this talk he breaks down exactly how the wrong prompts are costing you everything: - the 14% you lose to CLAUDE.md before typing a word - the prompts that turn Claude into a strategist, not a chatbot - the role framing that 95% of…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-05-25"
 }
