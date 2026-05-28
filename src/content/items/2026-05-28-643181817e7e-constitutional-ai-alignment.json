@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-28T06:49:32.731Z",
   "importance": "critical",
   "summary": "Constitutional AI Alignment",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Epistemological status: existential AI safety suggestions as a set of bullet points TL;DR We need to be clear about what behavior we’re trying to train when we align AIs — aligned behavior is not the default for an LLM whose behavior is distilled from ours, nor for an RL-trained maximizer. Anthropic published an early constitution , and recently a large upd…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-28"
 }
