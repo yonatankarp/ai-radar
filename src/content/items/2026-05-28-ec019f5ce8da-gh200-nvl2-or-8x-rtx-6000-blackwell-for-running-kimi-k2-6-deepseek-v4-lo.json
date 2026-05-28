@@ -1,0 +1,13 @@
+{
+  "title": "GH200 NVL2 or 8x RTX 6000 Blackwell for running Kimi K2.6 / DeepSeek V4 locally? (5 devs, agentic coding)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpp0a7/gh200_nvl2_or_8x_rtx_6000_blackwell_for_running/",
+  "source": "r/LocalLLaMA",
+  "discoveredAt": "2026-05-28T13:18:20.637Z",
+  "importance": "worth-reading",
+  "summary": "GH200 NVL2 or 8x RTX 6000 Blackwell for running Kimi K2.6 / DeepSeek V4 locally? (5 devs, agentic coding)",
+  "whyItMatters": "Trying to figure out the right box for my team and wanted to see if anyone had any clue which would be a better fit or if it is not worth our time in our budget. Situation: 5 of us doing agentic coding (lots of long context getting re-sent every turn, parallel tool calls, etc.) and we want to self-host the latest open MoE models — Kimi K2.6 and DeepSeek V4…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-28"
+}
