@@ -1,0 +1,13 @@
+{
+  "title": "@rasbt: The MiniMax M2 series was one of the most widely used open-weight LLM series earlier this year. Now, we got a technical",
+  "url": "https://x.com/rasbt/status/2059652784404762711",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-05-28T06:49:32.728Z",
+  "importance": "critical",
+  "summary": "@rasbt: The MiniMax M2 series was one of the most widely used open-weight LLM series earlier this year. Now, we got a technical",
+  "whyItMatters": "The MiniMax M2 series was one of the most widely used open-weight LLM series earlier this year. Now, we got a technical report with some interesting tidbits. I summarized some of them below: 1. Full attention as an anti-trend?: They tried hybrid sliding-window attention variants (like so many others, like Xiaomi MiMo, Laguna, Gemma 4, Arcee, Olmo 3, etc.).…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-05-28"
+}
