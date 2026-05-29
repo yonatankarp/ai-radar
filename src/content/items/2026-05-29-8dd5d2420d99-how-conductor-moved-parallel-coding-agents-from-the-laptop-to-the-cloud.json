@@ -1,0 +1,13 @@
+{
+  "title": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
+  "url": "https://vercel.com/blog/how-conductor-moved-parallel-coding-agents-from-the-laptop-to-the-cloud-with-vercel-sandbox",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-29T16:18:28.698Z",
+  "importance": "critical",
+  "summary": "How Conductor moved parallel coding agents from the laptop to the cloud with Vercel Sandbox",
+  "whyItMatters": "Conductor on Vercel Multiple parallel coding agents running at scale in the cloud Model-agnostic, works with Claude Code, Codex, and other coding agents Used by engineering teams at Notion, Linear, Ramp, and Life360 Interacting with a single coding agent feels natural, and Conductor makes directing a fleet of agents just as intuitive. It's a GUI for spinnin…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-29"
+}
