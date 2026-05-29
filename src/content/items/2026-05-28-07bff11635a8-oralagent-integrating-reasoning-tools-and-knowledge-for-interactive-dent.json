@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-28T06:49:32.730Z",
   "importance": "critical",
   "summary": "OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Dental image analysis plays a pivotal role in supporting accurate diagnosis and treatment planning in oral healthcare. Although recent advances have produced dental AI models for specific tasks and individual imaging modalities, their isolated designs limit practical use in real-world clinical workflows. In this paper, we present OralAgent, the first dental…",
   "tags": [
     "Agentic AI / workflow"
   ],

@@ -1,0 +1,13 @@
+{
+  "title": "Team-wide provider allowlist on AI Gateway",
+  "url": "https://vercel.com/changelog/team-wide-provider-allowlist-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-05-29T01:18:28.910Z",
+  "importance": "critical",
+  "summary": "Team-wide provider allowlist on AI Gateway",
+  "whyItMatters": "AI Gateway now supports a team-wide provider allowlist. Teams can restrict which providers can serve requests, so traffic only routes to approved providers. The allowlist applies to every request through AI Gateway, including Bring Your Own Key (BYOK) traffic. Regulated teams typically vet AI providers across multiple dimensions with security and legal sign…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-29"
+}
