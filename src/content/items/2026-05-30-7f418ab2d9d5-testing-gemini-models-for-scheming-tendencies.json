@@ -1,0 +1,13 @@
+{
+  "title": "Testing Gemini models for scheming tendencies",
+  "url": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies",
+  "source": "Alignment Forum",
+  "discoveredAt": "2026-05-29T22:18:22.271Z",
+  "importance": "critical",
+  "summary": "Testing Gemini models for scheming tendencies",
+  "whyItMatters": "As AI models become increasingly capable and autonomous, keeping them safely aligned with human intentions is critical. Extending our previous work on&nbsp; evaluating scheming capabilities , we introduce complementary approaches to test whether AI models would sabotage their own safeguards, if given the opportunity. Our new papers focus on propensity for s…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-05-30"
+}

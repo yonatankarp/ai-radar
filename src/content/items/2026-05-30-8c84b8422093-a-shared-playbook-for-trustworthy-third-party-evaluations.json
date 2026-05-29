@@ -1,0 +1,13 @@
+{
+  "title": "A shared playbook for trustworthy third party evaluations",
+  "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-05-29T22:18:22.273Z",
+  "importance": "worth-reading",
+  "summary": "A shared playbook for trustworthy third party evaluations",
+  "whyItMatters": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-05-30"
+}

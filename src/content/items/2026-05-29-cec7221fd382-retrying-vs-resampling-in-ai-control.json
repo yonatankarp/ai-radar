@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-29T19:18:21.240Z",
   "importance": "critical",
   "summary": "Retrying vs Resampling in AI Control",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "We’ve just released a new paper: Retrying vs Resampling in AI Control . We revisit the resampling protocols introduced in Ctrl-Z with an up-to-date setting and much stronger models, and compare them against “retrying” protocols similar to Claude Code auto mode or Codex Auto-review. Motivation Roughly a year ago we released Ctrl-Z , the first paper to study…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-29"
 }
