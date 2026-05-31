@@ -5,9 +5,9 @@
   "discoveredAt": "2026-05-31T04:18:09.628Z",
   "importance": "worth-reading",
   "summary": "Ensemble monitoring for AI control: diverse signals outweigh more compute",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "tl;dr What improves LLM monitoring besides leveraging more compute? Leveraging more diverse compute. In the AI control setting of Greenblatt et al. (2024) , we build 12 monitors via various prompting and fine-tuning approaches; we then study different ways to compose them into ensembles. We evaluate our ensembles on the APPS coding dataset, extended with mo…",
   "tags": [
-    "Research / models"
+    "Practical tooling / usage"
   ],
   "issue": "2026-05-31"
 }
