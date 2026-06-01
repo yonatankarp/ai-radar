@@ -1,0 +1,13 @@
+{
+  "title": "LegSegNet: A Public Deep Learning System for Lower Extremity CT Tissue Segmentation and Quantification",
+  "url": "https://arxiv.org/abs/2605.30829",
+  "source": "arXiv cs.CV recent",
+  "discoveredAt": "2026-06-01T04:18:22.155Z",
+  "importance": "critical",
+  "summary": "LegSegNet: A Public Deep Learning System for Lower Extremity CT Tissue Segmentation and Quantification",
+  "whyItMatters": "Lower extremity computed tomography (CT) contains clinically relevant information for body composition analysis, sarcopenia assessment, and musculoskeletal disease monitoring, but extracting these measurements at scale requires accurate tissue segmentation and an automated quantification workflow. Existing public segmentation tools are not designed for comp…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-01"
+}
