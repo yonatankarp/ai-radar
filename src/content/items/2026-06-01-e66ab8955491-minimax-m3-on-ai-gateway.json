@@ -1,0 +1,13 @@
+{
+  "title": "MiniMax M3 on AI Gateway",
+  "url": "https://vercel.com/changelog/minimax-m3-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-01T01:18:17.997Z",
+  "importance": "critical",
+  "summary": "MiniMax M3 on AI Gateway",
+  "whyItMatters": "MiniMax M3 is now available on Vercel AI Gateway . M3 is MiniMax's first model with a 1M-token context window and native multimodality, built around MiniMax Sparse Attention (MSA). M3 improves on software engineering, terminal-based tool use, and agentic web browsing, and is tuned for multi-turn collaboration. To use MiniMax M3, set model to minimax/minimax…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-01"
+}
