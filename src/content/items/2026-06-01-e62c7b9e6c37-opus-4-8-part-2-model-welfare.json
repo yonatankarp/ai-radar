@@ -1,0 +1,13 @@
+{
+  "title": "Opus 4.8 Part 2: Model Welfare",
+  "url": "https://www.lesswrong.com/posts/2Ln5G6Jso3fMrgPEv/opus-4-8-part-2-model-welfare",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-01T16:18:27.567Z",
+  "importance": "critical",
+  "summary": "Opus 4.8 Part 2: Model Welfare",
+  "whyItMatters": "Everything impacts everything. All knobs that you turn generalize. Thus, when you try to solve one problem, you often create another. There were clearly attempts to address, in this short time, some of the problems with Opus 4.7, including on the model welfare related fronts, including on questions of honesty and sycophancy and also worries that Claude was…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-01"
+}
