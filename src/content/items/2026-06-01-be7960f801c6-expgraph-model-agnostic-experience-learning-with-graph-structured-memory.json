@@ -3,7 +3,7 @@
   "url": "https://arxiv.org/abs/2605.30712",
   "source": "arXiv cs.CL recent",
   "discoveredAt": "2026-06-01T04:18:22.156Z",
-  "importance": "critical",
+  "importance": "worth-reading",
   "summary": "ExpGraph: Model-Agnostic Experience Learning with Graph-Structured Memory for LLM Agents",
   "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
