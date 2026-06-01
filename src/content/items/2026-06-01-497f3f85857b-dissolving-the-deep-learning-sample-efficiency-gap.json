@@ -1,0 +1,13 @@
+{
+  "title": "Dissolving the Deep Learning Sample Efficiency Gap",
+  "url": "https://www.lesswrong.com/posts/tmWxDGnuNdaHFDyjf/dissolving-the-deep-learning-sample-efficiency-gap-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-01T19:18:30.417Z",
+  "importance": "critical",
+  "summary": "Dissolving the Deep Learning Sample Efficiency Gap",
+  "whyItMatters": "A common observation about deep learning is that it's wildly sample inefficient compared to humans. Deep learning systems appear to need much more real data or environment interaction to reach a given level of capability. A teenager can learn to drive in a few dozen hours; self-driving systems are trained for years on billions of miles of data. A human can…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-01"
+}
