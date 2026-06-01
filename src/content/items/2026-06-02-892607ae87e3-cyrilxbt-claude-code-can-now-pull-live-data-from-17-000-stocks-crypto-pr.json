@@ -1,0 +1,13 @@
+{
+  "title": "@cyrilXBT: CLAUDE CODE CAN NOW PULL LIVE DATA FROM 17,000+ STOCKS, CRYPTO PRICES, AND FINANCIAL STATEMENTS IN SECONDS. One command.",
+  "url": "https://x.com/cyrilXBT/status/2061379784664584278",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-01T22:18:36.539Z",
+  "importance": "critical",
+  "summary": "@cyrilXBT: CLAUDE CODE CAN NOW PULL LIVE DATA FROM 17,000+ STOCKS, CRYPTO PRICES, AND FINANCIAL STATEMENTS IN SECONDS. One command.",
+  "whyItMatters": "CLAUDE CODE CAN NOW PULL LIVE DATA FROM 17,000+ STOCKS, CRYPTO PRICES, AND FINANCIAL STATEMENTS IN SECONDS. One command. 60 seconds. Done. Here is the exact setup: Step 1: Open Claude Code and paste this: claude mcp add --transport http financial-datasets https://mcp.financialdatasets.ai Step 2: Authenticate Type `/mcp` inside Claude Code and complete the O…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-02"
+}

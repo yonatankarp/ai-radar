@@ -1,0 +1,13 @@
+{
+  "title": "Qwen 3.7 Plus now available on AI Gateway",
+  "url": "https://vercel.com/changelog/qwen-3-7-plus-now-available-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-01T22:18:36.542Z",
+  "importance": "critical",
+  "summary": "Qwen 3.7 Plus now available on AI Gateway",
+  "whyItMatters": "Qwen 3.7 Plus from Alibaba is now available on Vercel AI Gateway . The model unifies vision and language into a single agent foundation, with capabilities spanning GUI and CLI operation, coding and productivity workflows with full-modality input, and visual agent tasks including perception and reasoning. It is designed to generalize across diverse agent har…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-02"
+}
