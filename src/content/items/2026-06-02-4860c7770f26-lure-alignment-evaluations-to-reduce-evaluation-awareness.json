@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-02T19:21:28.781Z",
   "importance": "critical",
   "summary": "LURE: Alignment Evaluations to Reduce Evaluation Awareness",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "TLDR: Frontier models can detect when they're being evaluated and change their behavior, which risks compromising safety benchmarks. We introduce LURE (Live-Usage Replay Evaluations), a method that constructs alignment evals by replaying realistic conversations and appending a safety-relevant test at the end, rather than building evaluation scenarios from s…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-02"
 }
