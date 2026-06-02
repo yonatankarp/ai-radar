@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-01T22:18:36.541Z",
   "importance": "critical",
   "summary": "Critique of current AI safety bug bounty programs",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "The potential value of AI safety bug bounty programs Generally, AI labs should (and most do) put their models under extensive safety testing before deploying them to prevent misuse, scheming, and other dangerous behaviors. This may include internal tests, red-teaming efforts by third-parties, etc. However, edge case safety vulnerabilities will likely slip t…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-02"
 }
