@@ -1,0 +1,13 @@
+{
+  "title": "Claude Opus 4.8: Capabilities and Reactions",
+  "url": "https://www.lesswrong.com/posts/AfLGv6u9eZNuFHb4c/claude-opus-4-8-capabilities-and-reactions",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-02T16:19:14.131Z",
+  "importance": "critical",
+  "summary": "Claude Opus 4.8: Capabilities and Reactions",
+  "whyItMatters": "You need a lot of data points to understand a new model, and what you have. Trying to gauge from a few benchmarks is misleading. But if you have dozens of them, from a variety of sources, and you put them together with the model card tests and the model welfare information, you can start to form a consistent pattern. Trying to gauge reactions requires volum…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-02"
+}
