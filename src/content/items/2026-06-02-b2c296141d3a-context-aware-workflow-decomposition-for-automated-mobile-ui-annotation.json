@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-02T04:21:19.369Z",
   "importance": "critical",
   "summary": "Context-Aware Workflow Decomposition for Automated Mobile UI Annotation Using Multimodal Large Language Models",
-  "whyItMatters": "Accurate mobile user interface annotation is important for UI understanding, accessibility tools, automated testing, dataset construction, and GUI agents. However, mobile screens are difficult to annotate because they often contain small, dense, nested, and visually ambiguous elements. Multimodal large language models can help automate this process, but the…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-06-02"
 }
