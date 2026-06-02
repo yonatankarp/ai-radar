@@ -1,0 +1,13 @@
+{
+  "title": "Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture",
+  "url": "https://arxiv.org/abs/2606.00288",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-02T04:21:19.368Z",
+  "importance": "critical",
+  "summary": "Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture",
+  "whyItMatters": "Large language models are undergoing a transition from model technology to system technology. As developers use Codex, Claude Code, AutoGPT, and related agents to write code, manage projects, and execute multi-step tasks, recurring engineering problems such as cache reuse, context management, agent scheduling, and permission control increasingly resemble cl…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-02"
+}
