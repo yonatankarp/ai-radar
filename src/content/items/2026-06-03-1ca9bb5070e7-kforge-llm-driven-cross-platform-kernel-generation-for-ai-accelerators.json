@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-03T07:19:16.830Z",
   "importance": "critical",
   "summary": "KForge: LLM-Driven Cross-Platform Kernel Generation for AI Accelerators",
-  "whyItMatters": "Production inference increasingly targets a heterogeneous mix of accelerators. Agentic pipelines interleave reasoning, tool calls, and multi-agent coordination, each with distinct compute and memory profiles. For optimal efficiency, each stage should run on the accelerator best suited to it. This creates a systems challenge: each pipeline now requires high-…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-06-03"
 }

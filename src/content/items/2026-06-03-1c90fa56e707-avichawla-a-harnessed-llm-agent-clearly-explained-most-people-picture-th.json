@@ -1,0 +1,13 @@
+{
+  "title": "@_avichawla: A harnessed LLM agent, clearly explained! Most people picture this as a model with tools bolted on. The real architectur",
+  "url": "https://x.com/_avichawla/status/2062082282878627946",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-03T16:18:30.888Z",
+  "importance": "critical",
+  "summary": "@_avichawla: A harnessed LLM agent, clearly explained! Most people picture this as a model with tools bolted on. The real architectur",
+  "whyItMatters": "A harnessed LLM agent, clearly explained! Most people picture this as a model with tools bolted on. The real architecture inverts that relationship. The model itself is deliberately thin. Intelligence gets pushed outward, and the harness composes it at runtime. Three dimensions orbit the harness core: - 𝗠𝗲𝗺𝗼𝗿𝘆 holds the state a model shouldn't carry i…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-03"
+}
