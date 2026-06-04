@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-04T04:18:25.505Z",
   "importance": "critical",
   "summary": "The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?",
-  "whyItMatters": "Current AI benchmarks evaluate agents on task execution within human-designed workflows. These evaluations fundamentally fail to measure a critical next-level capability: whether models can autonomously develop agent systems. We introduce the Meta-Agent Challenge (MAC), an evaluation framework designed to test the capacity of frontier models for autonomous…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
