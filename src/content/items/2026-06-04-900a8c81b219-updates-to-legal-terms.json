@@ -1,0 +1,13 @@
+{
+  "title": "Updates to Legal Terms",
+  "url": "https://vercel.com/changelog/updates-to-legal-terms-june-2026",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-04T19:18:50.521Z",
+  "importance": "critical",
+  "summary": "Updates to Legal Terms",
+  "whyItMatters": "The proliferation of agentic workflows means developers now regularly grant AI tools direct access to their infrastructure, use services that act autonomously, and build on platforms that themselves use AI to operate. We’ve updated our Terms of Service and Marketplace terms to clarify shared responsibility when actions on your account may be taken by AI, wh…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-04"
+}
