@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-04T19:18:50.522Z",
   "importance": "critical",
   "summary": "Training Deliberative Monitors for Black-Box Scheming Detection",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Paper: https://arxiv.org/abs/2605.29601 Thread: https://x.com/aksh_n0/status/2062568855814193497 TL;DR: Training small open-weight monitors provides a cost-effective alternative to prompted frontier monitors. Applying our training recipe to Qwen3.5-27B results in a monitor better at scheming detection than all smaller prompted monitors (Gemini 3.1 Flash-Lit…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-04"
 }

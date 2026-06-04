@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-04T19:18:50.522Z",
   "importance": "critical",
   "summary": "Nemotron 3 Ultra now available on AI Gateway",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Nemotron 3 Ultra from Nvidia is now available on Vercel AI Gateway . Nemotron 3 Ultra is an open Mixture-of-Experts reasoning model built for orchestrating long-running agent workflows, with a 1M token context window. The model targets multi-turn agent workflows: planning, tool use, sub-agent delegation, and error recovery. Throughput reaches up to 350 toke…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-04"
 }
