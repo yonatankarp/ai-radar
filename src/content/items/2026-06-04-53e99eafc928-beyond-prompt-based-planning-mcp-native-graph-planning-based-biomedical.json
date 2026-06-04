@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-04T04:18:25.504Z",
   "importance": "critical",
   "summary": "Beyond Prompt-Based Planning: MCP-Native Graph Planning-based Biomedical Agent System",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Biomedical agents promise to automate complex biological workflows, yet current systems face two fundamental bottlenecks: bioinformatics tools are highly heterogeneous in interfaces and execution environments, while agent planning still relies on flat prompt-retrieved tool descriptions. As biomedical software ecosystems grow, this coupling between tool cove…",
   "tags": [
     "Agentic AI / workflow"
   ],
