@@ -1,0 +1,13 @@
+{
+  "title": "@dunik_7: $5,500/year subscription stack vs $599 hardware. Mac Mini M4 + Ollama + Claude Code. Apple Stores ran out of Mac Minis.",
+  "url": "https://x.com/dunik_7/status/2062159363901407486",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-04T01:19:04.145Z",
+  "importance": "critical",
+  "summary": "@dunik_7: $5,500/year subscription stack vs $599 hardware. Mac Mini M4 + Ollama + Claude Code. Apple Stores ran out of Mac Minis.",
+  "whyItMatters": "$5,500/year subscription stack vs $599 hardware. Mac Mini M4 + Ollama + Claude Code. Apple Stores ran out of Mac Minis. not because of marketing because developers figured out the math. one env var (ANTHROPIC_BASE_URL=http://localhost:11434/v1) redirects Claude Code to your $599 box. same workflow. $3/month in electricity. forever. the smart play isn't all-…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-04"
+}
