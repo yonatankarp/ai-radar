@@ -1,0 +1,13 @@
+{
+  "title": "Improved performance and model support with GGUF",
+  "url": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+  "source": "Ollama Blog",
+  "discoveredAt": "2026-06-05T22:18:17.755Z",
+  "importance": "worth-reading",
+  "summary": "Improved performance and model support with GGUF",
+  "whyItMatters": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-06"
+}
