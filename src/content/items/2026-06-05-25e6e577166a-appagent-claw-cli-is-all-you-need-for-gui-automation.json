@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-05T04:18:16.704Z",
   "importance": "critical",
   "summary": "AppAgent-Claw: CLI Is All You Need for GUI Automation",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "The OpenClaw platform provides a practical foundation for automation through its skill-oriented architecture, organizing external capabilities into lightweight, reusable components that can be invoked efficiently through a command-line interface (CLI). However, a significant bottleneck remains: many real-world tasks are confined to graphical user interfaces…",
   "tags": [
     "Agentic AI / workflow"
   ],

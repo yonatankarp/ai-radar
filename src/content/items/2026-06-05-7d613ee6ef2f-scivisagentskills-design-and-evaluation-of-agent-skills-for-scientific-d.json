@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-05T04:18:16.703Z",
   "importance": "critical",
   "summary": "SciVisAgentSkills: Design and Evaluation of Agent Skills for Scientific Data Analysis and Visualization",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Recent advances in agentic visualization have enabled the translation of natural language into executable scientific visualization (SciVis) workflows. While general-purpose coding agents show strong capabilities, they often lack the tool-specific expertise required for SciVis tasks. In this work, we present SciVisAgentSkills, a collection of reusable agent…",
   "tags": [
     "Agentic AI / workflow"
   ],
