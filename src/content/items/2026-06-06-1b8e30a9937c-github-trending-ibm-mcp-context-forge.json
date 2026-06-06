@@ -1,0 +1,13 @@
+{
+  "title": "GitHub trending: IBM/mcp-context-forge",
+  "url": "https://github.com/IBM/mcp-context-forge",
+  "source": "GitHub Trending Python",
+  "discoveredAt": "2026-06-06T13:18:38.648Z",
+  "importance": "critical",
+  "summary": "GitHub trending: IBM/mcp-context-forge",
+  "whyItMatters": "Star IBM / mcp-context-forge An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins. · Language: Python",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-06"
+}
