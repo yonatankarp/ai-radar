@@ -1,0 +1,13 @@
+{
+  "title": "Evaluating using Mock Tool Calls to Quarantine Untrusted Prompt Inputs",
+  "url": "https://www.lesswrong.com/posts/GPMZaRmxxNb8o2aGo/evaluating-using-mock-tool-calls-to-quarantine-untrusted-2",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-06T01:18:09.946Z",
+  "importance": "critical",
+  "summary": "Evaluating using Mock Tool Calls to Quarantine Untrusted Prompt Inputs",
+  "whyItMatters": "This is a small study that explores using tool calls to wrap untrusted parts of prompts. OpenAI's model spec considers tool results the least trusted kind of input. If tool-wrapping helped, it would be an easy way to improve robustness while using existing APIs models already support. In 3 tested tasks it didn't seem to broadly help, and in some cases made…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-06"
+}
