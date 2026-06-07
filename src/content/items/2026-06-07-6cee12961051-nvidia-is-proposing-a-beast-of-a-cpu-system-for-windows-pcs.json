@@ -1,0 +1,13 @@
+{
+  "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+  "url": "https://x.com/lemire/status/2062880075117113739",
+  "source": "Hacker News front page",
+  "discoveredAt": "2026-06-07T13:18:26.900Z",
+  "importance": "worth-reading",
+  "summary": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+  "whyItMatters": "Nvidia is proposing a beast of a CPU system for Windows PCs. It has 128 GB of shared memory and comes with up to 6,144 state-of-the-art CUDA cores. CPU wise, the chip has 10 performance cores and 10 efficiency cores. The performance cores are based on the Cortex-X925. These chips appear to support six 128-bit SIMD execution units (SVE2), not as good as rece…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-07"
+}
