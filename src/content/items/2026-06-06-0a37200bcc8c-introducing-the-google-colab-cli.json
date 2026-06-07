@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-05T22:18:17.753Z",
   "importance": "critical",
   "summary": "Introducing the Google Colab CLI",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-06"
 }
