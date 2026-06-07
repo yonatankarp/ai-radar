@@ -1,0 +1,13 @@
+{
+  "title": "@0xfinkus: Daniel Chen racked 1,000 Mac Minis into an AI data center He was burning $14K/month on cloud compute So he rebuilt it lo",
+  "url": "https://x.com/0xfinkus/status/2063203500738126107",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-07T01:18:15.330Z",
+  "importance": "critical",
+  "summary": "@0xfinkus: Daniel Chen racked 1,000 Mac Minis into an AI data center He was burning $14K/month on cloud compute So he rebuilt it lo",
+  "whyItMatters": "Daniel Chen racked 1,000 Mac Minis into an AI data center He was burning $14K/month on cloud compute So he rebuilt it locally 1,000× Mac Mini M4 Same workload class Lower power draw than a single Nvidia server $599 once vs $200/month forever Ollama + Claude Code via local endpoint Zero API cost Apple didn’t market it like this Developers did the math Bookma…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-07"
+}
