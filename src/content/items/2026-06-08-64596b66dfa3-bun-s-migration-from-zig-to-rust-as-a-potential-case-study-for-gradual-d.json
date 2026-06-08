@@ -1,0 +1,13 @@
+{
+  "title": "Bun's Migration from Zig to Rust as a Potential Case Study for Gradual Disempowerment",
+  "url": "https://www.lesswrong.com/posts/qEbqPitYhWHthwFNu/bun-s-migration-from-zig-to-rust-as-a-potential-case-study",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-08T07:18:25.391Z",
+  "importance": "critical",
+  "summary": "Bun's Migration from Zig to Rust as a Potential Case Study for Gradual Disempowerment",
+  "whyItMatters": "TL;DR: Bun is a very large and very influential open-source project. It is being migrated from the easier-to-read Zig programming language to harder-to-read but memory-safe Rust. This is done almost entirely by the AI tool Claude Code. The migration may become one of the earliest major case studies of human control over a significant software project becomi…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-08"
+}
