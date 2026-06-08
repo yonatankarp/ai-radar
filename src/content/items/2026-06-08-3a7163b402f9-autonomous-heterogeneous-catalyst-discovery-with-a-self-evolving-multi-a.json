@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-08T07:18:25.394Z",
   "importance": "worth-reading",
   "summary": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Theoretical heterogeneous catalysis promises rapid catalyst discovery, yet computational and machine-learning predictions often deviate from experiment and stay confined to narrow material families, for want of a faithful, condition-aware catalytic simulator. We present CatDT (Catalysis Digital Twin), a self-evolving multi-agent system that builds an autono…",
   "tags": [
     "Agentic AI / workflow"
   ],
