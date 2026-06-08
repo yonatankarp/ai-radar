@@ -1,0 +1,13 @@
+{
+  "title": "Contextual Identity Laundering: How Claude’s Image Refusal Can Be Routed Through Web Search",
+  "url": "https://www.lesswrong.com/posts/6Y8bB6TbMaE6ZSwfA/contextual-identity-laundering-how-claude-s-image-refusal",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-08T01:18:18.426Z",
+  "importance": "critical",
+  "summary": "Contextual Identity Laundering: How Claude’s Image Refusal Can Be Routed Through Web Search",
+  "whyItMatters": "Summary This report documents two distinct findings regarding Claude’s photo identification safety controls. First, Claude’s Chain of Thought (COT) reliably identifies public figures from photos while the output layer simultaneously refuses to disclose that identification – a gap between internal processing and user-facing behavior. Second, the model’s web_…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-08"
+}
