@@ -1,0 +1,13 @@
+{
+  "title": "GitHub trending: xerrors/Yuxi",
+  "url": "https://github.com/xerrors/Yuxi",
+  "source": "GitHub Trending Python",
+  "discoveredAt": "2026-06-08T13:21:26.540Z",
+  "importance": "critical",
+  "summary": "GitHub trending: xerrors/Yuxi",
+  "whyItMatters": "Star xerrors / Yuxi 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. · Language: Python",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-08"
+}

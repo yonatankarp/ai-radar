@@ -1,0 +1,13 @@
+{
+  "title": "Coverage-driven alignment - What ‘Teaching Claude Why’ can borrow from AV verification",
+  "url": "https://www.lesswrong.com/posts/hsrjuzqokvAErvZ2q/coverage-driven-alignment-what-teaching-claude-why-can",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-08T13:21:26.539Z",
+  "importance": "critical",
+  "summary": "Coverage-driven alignment - What ‘Teaching Claude Why’ can borrow from AV verification",
+  "whyItMatters": "Cross-posted from The Foretellix CTO Blog . This is a full-text linkpost, following feedback that my previous piece was too brief as a stub. Summary: This post suggests that alignment training could benefit from coverage-driven verification. Anthropic recently reported that teaching Claude alignment rules (via pretraining-style next-token learning on alignm…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-08"
+}
