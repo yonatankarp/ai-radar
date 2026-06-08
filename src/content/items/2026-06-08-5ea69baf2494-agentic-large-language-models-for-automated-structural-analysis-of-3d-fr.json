@@ -1,0 +1,13 @@
+{
+  "title": "Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems",
+  "url": "https://arxiv.org/abs/2606.06525",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-08T04:18:23.332Z",
+  "importance": "critical",
+  "summary": "Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems",
+  "whyItMatters": "Large language models (LLMs) have emerged as powerful foundation models with strong reasoning capabilities across domains. Beyond reactive text generation, agentic LLMs enable autonomous workflow execution through modular task decomposition and coordinated tool use. In structural engineering, recent efforts have developed agentic LLMs for automated analysis…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-08"
+}
