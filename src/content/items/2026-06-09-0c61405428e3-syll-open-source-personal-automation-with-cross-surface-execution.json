@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-09T04:18:21.393Z",
   "importance": "critical",
   "summary": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Personal AI agents must increasingly operate across APIs, shells, web surfaces, and desktop GUIs, yet many systems remain tuned to a single interface and offer limited support for user teaching and auditability. We present Syll, an open-source, self-hosted multimodal agent harness that unifies MCP/API tools, CLI execution, and visual GUI control in a modula…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-09"
 }
