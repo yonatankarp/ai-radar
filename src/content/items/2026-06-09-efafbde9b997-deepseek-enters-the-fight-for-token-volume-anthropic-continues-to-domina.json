@@ -1,0 +1,13 @@
+{
+  "title": "DeepSeek enters the fight for token volume, Anthropic continues to dominate spend",
+  "url": "https://vercel.com/blog/ai-gateway-production-index-june-2026",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-09T04:18:21.391Z",
+  "importance": "critical",
+  "summary": "DeepSeek enters the fight for token volume, Anthropic continues to dominate spend",
+  "whyItMatters": "Every month, AI Gateway routes tens of trillions of tokens between production applications and AI labs, giving us visibility into what AI usage actually looks like, separate from leaderboards and benchmarks. We publish the data monthly in the AI Gateway production index. May 2026 summary Total AI Gateway tokens grew +20% MoM ; total spend grew +43% MoM . Cu…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-09"
+}
