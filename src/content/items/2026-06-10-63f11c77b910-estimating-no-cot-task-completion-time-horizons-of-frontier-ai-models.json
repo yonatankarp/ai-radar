@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-10T19:18:29.353Z",
   "importance": "critical",
   "summary": "Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "(see full author list at the end) About a year ago, METR showed &nbsp;that the length of tasks frontier models can reliably complete doubles every few months. A related safety-relevant question is this: what length of tasks can models complete without any chain of thought (CoT)? We investigate in our new paper . If models can do extensive reasoning without…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-10"
 }

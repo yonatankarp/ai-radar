@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-10T13:18:38.042Z",
   "importance": "critical",
   "summary": "Tracing Eval-Awareness Emergence Through Training of OLMo 3",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "TL;DR Recent work from Goodfire & UK AISI – Verbalized Eval Awareness Inflates Measured Safety – shows that newer open-weight models verbalize evaluation-awareness (VEA) more often, and that this inflates measured safety. Between OLMo-3-32B-Think and OLMo-3 .1 -32B-Think – identical base, SFT, DPO, and RL data, differing only in an additional ~3 weeks of th…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-10"
 }

@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-10T16:18:30.445Z",
   "importance": "critical",
   "summary": "@waveking1314: 很多开发者最痛的不是不会用 AI。 是 AI 越用越爽，账单越看越想死。 有个开发者 10 天就干出 170 美元 Claude Code 账单，结果评论区有人直接给了一个狠方案：别继续烧 API 了，买台 Mac mini，把 AI 编程",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "很多开发者最痛的不是不会用 AI。 是 AI 越用越爽，账单越看越想死。 有个开发者 10 天就干出 170 美元 Claude Code 账单，结果评论区有人直接给了一个狠方案：别继续烧 API 了，买台 Mac mini，把 AI 编程小队搬回本地。 基础款 Mac mini M4，599 美元。装 Ollama，拉本地模型，跑几条命令，然后把 Claude Code 指向 localhost，而不是继续走 Anthropic 的服务器。这样就没有 API 账单，代码不出本机，数据不发云端，也不用一直交月费。 整套本地栈大概是：Claude Code 连接 Ollama，Open WebUI 跑在 localhost:3000，OpenClaw daemon 接 Telegram，DeepSeek R1…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-10"
 }
