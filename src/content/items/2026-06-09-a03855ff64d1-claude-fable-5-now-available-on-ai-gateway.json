@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-09T19:18:35.357Z",
   "importance": "critical",
   "summary": "Claude Fable 5 now available on AI Gateway",
-  "whyItMatters": "Claude Fable 5 from Anthropic is now available on AI Gateway . A Mythos-class model, Fable 5 is a notable step up over prior Claude models on long-running, ambiguous, multi-step tasks, executing end-to-end on work that previously required frequent human check-ins. The model sustains productive output across multi-day runs and dependably dispatches parallel…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Practical tooling / usage"
   ],
   "issue": "2026-06-09"
 }
