@@ -1,0 +1,13 @@
+{
+  "title": "Thoughts on Claude Fable's silent safeguards",
+  "url": "https://www.lesswrong.com/posts/sSyLyc3KDQzboQGWS/thoughts-on-claude-fable-s-silent-safeguards",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-11T01:18:19.770Z",
+  "importance": "critical",
+  "summary": "Thoughts on Claude Fable's silent safeguards",
+  "whyItMatters": "[Thanks to Julian Minder for helpful discussion and review.] Claude Fable 5 and its new safeguards Yesterday, Anthropic publicly released Claude Fable 5. Fable 5 is a Mythos-class model – a model class above Opus, Anthropic's previous premium tier – and, as assessed by multiple benchmarks, it is the most capable model to date. Due to the new level of capabi…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-11"
+}

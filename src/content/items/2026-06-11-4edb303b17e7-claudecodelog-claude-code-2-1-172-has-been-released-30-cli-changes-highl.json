@@ -1,0 +1,13 @@
+{
+  "title": "@ClaudeCodeLog: Claude Code 2.1.172 has been released. 30 CLI changes Highlights: • Sub-agents can spawn nested sub-agents up to five le",
+  "url": "https://x.com/ClaudeCodeLog/status/2064817348113019239",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-11T01:18:19.768Z",
+  "importance": "critical",
+  "summary": "@ClaudeCodeLog: Claude Code 2.1.172 has been released. 30 CLI changes Highlights: • Sub-agents can spawn nested sub-agents up to five le",
+  "whyItMatters": "Claude Code 2.1.172 has been released. 30 CLI changes Highlights: • Sub-agents can spawn nested sub-agents up to five levels, enabling deeper multi-agent workflows • 1M-context sessions without usage credits now auto-compact to standard limits, avoiding permanent stalls • Marketplace plugin browser (/plugin) adds a search bar to speed plugin discovery and r…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-11"
+}
