@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-11T10:18:41.873Z",
   "importance": "critical",
   "summary": "Models May Behave Worse When Eval Aware",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "This is the first in a series of research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. TL;DR It's often assumed that models will act more aligned when they can tell they're being evaluated. But we find that Gemini can take “undesired” actions in behavioural evals even when it explicitly reaso…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-11"
 }
