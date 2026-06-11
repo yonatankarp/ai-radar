@@ -1,0 +1,13 @@
+{
+  "title": "@ClaudeDevs: We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged",
+  "url": "https://x.com/ClaudeDevs/status/2064949876463645026",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-11T07:18:26.288Z",
+  "importance": "critical",
+  "summary": "@ClaudeDevs: We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged",
+  "whyItMatters": "We’re rolling out changes to make Fable 5’s safeguards for frontier LLM development visible. Starting this week, flagged requests will visibly fall back to Opus 4.8—the same as our safeguards for cyber and bio. You will see this every time it happens. On the API, any flagged requests will return a reason for their refusal (coming to server-side fallback in…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-11"
+}
