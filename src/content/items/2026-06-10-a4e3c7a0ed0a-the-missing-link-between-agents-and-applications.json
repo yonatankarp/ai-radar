@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-10T19:18:29.354Z",
   "importance": "critical",
   "summary": "The Missing Link Between Agents and Applications",
-  "whyItMatters": "Most AI agent tools run on servers, limiting access to browser APIs, device capabilities, and frontend state. Discover how LangChain headless tools enable secure client-side tool execution for modern agent applications.",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],

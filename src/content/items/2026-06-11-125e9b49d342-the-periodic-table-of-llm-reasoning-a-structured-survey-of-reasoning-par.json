@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-11T04:18:23.357Z",
   "importance": "critical",
   "summary": "The Periodic Table of LLM Reasoning: A Structured Survey of Reasoning Paradigms, Methods, and Failure Modes",
-  "whyItMatters": "Large Language Models (LLMs) have achieved strong performance across natural language processing tasks, yet reliable reasoning remains an open challenge. Although modern LLMs show progress in structured inference, multi-step problem solving, and contextual understanding, their reasoning behavior is often inconsistent and sensitive to prompting strategies, t…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-06-11"
 }
