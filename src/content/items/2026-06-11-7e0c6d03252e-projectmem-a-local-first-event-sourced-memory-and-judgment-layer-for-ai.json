@@ -1,0 +1,13 @@
+{
+  "title": "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents",
+  "url": "https://arxiv.org/abs/2606.12329",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-11T04:18:23.357Z",
+  "importance": "critical",
+  "summary": "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents",
+  "whyItMatters": "AI coding assistants now support a growing share of software work, from quick scripts to production applications. Yet these agents remain largely stateless: each new session re-reads project files, re-derives prior decisions, and - most costly - may repeat debugging attempts that already failed. Reconstructing this context can consume an estimated 5,000-20,…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-11"
+}

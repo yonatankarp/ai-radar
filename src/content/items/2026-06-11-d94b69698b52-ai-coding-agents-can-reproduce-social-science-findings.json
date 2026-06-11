@@ -1,0 +1,13 @@
+{
+  "title": "AI Coding Agents Can Reproduce Social Science Findings",
+  "url": "https://arxiv.org/abs/2606.11447",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-06-11T04:18:23.356Z",
+  "importance": "critical",
+  "summary": "AI Coding Agents Can Reproduce Social Science Findings",
+  "whyItMatters": "Recent anecdotal evidence suggests that AI coding agents can reproduce published findings when provided with original data and code; yet systematic evaluation across social sciences remains limited. Existing evaluation benchmarks are insufficient, either small or conflate agent performance with problems in the reproduction materials themselves, such as code…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-11"
+}
