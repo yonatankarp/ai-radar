@@ -1,0 +1,13 @@
+{
+  "title": "Program Claude Code, Codex, Pi and other agent harnesses with AI SDK",
+  "url": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-12T16:18:45.819Z",
+  "importance": "critical",
+  "summary": "Program Claude Code, Codex, Pi and other agent harnesses with AI SDK",
+  "whyItMatters": "AI SDK 7 introduces HarnessAgent , a single API for running established agent harnesses, including Claude Code, Codex, and Pi. AI SDK has always let you switch models without rewriting your agent. Now you can switch the harness the same way. Write the agent once. Use the best harness available. Today. In 3 months. A year from now. Harnesses manage the compo…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-12"
+}
