@@ -1,0 +1,13 @@
+{
+  "title": "Construct validity of Claude Opus 4.8's System Card – A commentary",
+  "url": "https://www.lesswrong.com/posts/vA9xEPquoWenprWT7/construct-validity-of-claude-opus-4-8-s-system-card-a",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-12T01:18:15.574Z",
+  "importance": "critical",
+  "summary": "Construct validity of Claude Opus 4.8's System Card – A commentary",
+  "whyItMatters": "TL;DR: A read of the Claude Opus 4.8 system card with a focus on alignment assessment and construct validity of evaluation methods. Three main concerns: 1) chain-of-thought monitoring misses reasoning that never surfaces in the text; 2) evaluation awareness is under-estimated; 3) the evaluators come largely from the same model family, so agreement may refle…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-12"
+}
