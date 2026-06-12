@@ -1,0 +1,13 @@
+{
+  "title": "What's Continual Learning, and Why Might We Expect To See It In Advanced LLM Agents?",
+  "url": "https://www.lesswrong.com/posts/5mCJzimtNZc9o4e26/what-s-continual-learning-and-why-might-we-expect-to-see-it",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-12T19:18:25.862Z",
+  "importance": "critical",
+  "summary": "What's Continual Learning, and Why Might We Expect To See It In Advanced LLM Agents?",
+  "whyItMatters": "Summary We say that an agent is a continual learner if it undergoes persistent updates during deployment. That’s more-or-less a binary criterion, but there are several other components to being good at continual learning that are much more continuous. We say an agent is an effective continual learner to the extent that it: Constantly undergoes persistent up…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-12"
+}
