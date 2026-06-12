@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-12T04:18:18.662Z",
   "importance": "critical",
   "summary": "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Agentic large language model systems that autonomously invoke tools, maintain persistent memory, and execute multi-step plans are increasingly deployed in public-facing domains, including government services, healthcare triage, and financial advising. We ask whether the frameworks used to build these systems provide architectural-level structural safety gua…",
   "tags": [
     "Agentic AI / workflow"
   ],
