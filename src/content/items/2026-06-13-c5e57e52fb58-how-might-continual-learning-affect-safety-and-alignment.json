@@ -1,0 +1,13 @@
+{
+  "title": "How might continual learning affect safety and alignment?",
+  "url": "https://www.lesswrong.com/posts/j2zBqt7AksoEoHXNp/how-might-continual-learning-affect-safety-and-alignment",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-13T19:18:27.895Z",
+  "importance": "critical",
+  "summary": "How might continual learning affect safety and alignment?",
+  "whyItMatters": "This is the third post in our sequence Implications of Continual Learning for LLM Agents . Summary We argue that continual learning (CL) has two major potential safety implications: it may enable changes to LLM goals and values after deployment, and it eliminates the last-mover advantage held by current safety interventions. We identify three pathways for g…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-13"
+}

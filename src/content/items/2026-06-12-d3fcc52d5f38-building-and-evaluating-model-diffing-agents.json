@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-12T19:18:25.863Z",
   "importance": "critical",
   "summary": "Building and evaluating model diffing agents",
-  "whyItMatters": "This is the second in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The first post can be found here . TL;DR It is possible to build extremely simple agents that reliably find interesting behavioural differences between distinct models. We call these ‘diffing agen…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
