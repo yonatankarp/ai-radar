@@ -1,0 +1,13 @@
+{
+  "title": "A cheap specialist judge gets used by agents but fails to reduce alignment audit costs",
+  "url": "https://www.lesswrong.com/posts/AvyXkzAebPcWLZeju/a-cheap-specialist-judge-gets-used-by-agents-but-fails-to",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-13T22:18:19.525Z",
+  "importance": "critical",
+  "summary": "A cheap specialist judge gets used by agents but fails to reduce alignment audit costs",
+  "whyItMatters": "TL;DR I gave AuditBench's investigator agents a lightweight (Gemma 2-2B) EM-toxicity-scorer (judge) as an additional audit tool, targeting a proof-of-concept for misalignment detection at low cost, looking to validate that a specialized judge would (1) get used by these investigator agents, (2) help audits, (3) reduce overall evaluation spend Validation res…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-14"
+}
