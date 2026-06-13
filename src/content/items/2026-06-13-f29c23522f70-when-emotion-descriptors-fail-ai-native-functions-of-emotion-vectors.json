@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-13T01:18:17.679Z",
   "importance": "critical",
   "summary": "When Emotion Descriptors Fail: AI-Native Functions of Emotion Vectors",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Some LLM functional emotions appear to serve AI-native functions, such as reward hacking, for which there is no clean human analog. I explore the role of emotion vectors in AI-native functions, challenge anthropocentric emotion labels, and question what this means for alignment. Introduction A large body of interpretability work has shown that LLMs not only…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-13"
 }
