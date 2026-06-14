@@ -1,0 +1,13 @@
+{
+  "title": "Speeding Up JumpReLU SAE Inference with Custom Triton Kernels (2–14× on Real SAEs)",
+  "url": "https://www.lesswrong.com/posts/8gZspSs4WFtpfki9i/speeding-up-jumprelu-sae-inference-with-custom-triton",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-14T04:18:31.156Z",
+  "importance": "critical",
+  "summary": "Speeding Up JumpReLU SAE Inference with Custom Triton Kernels (2–14× on Real SAEs)",
+  "whyItMatters": "Worth opening from the current reading queue.",
+  "tags": [
+    "Research / models"
+  ],
+  "issue": "2026-06-14"
+}
