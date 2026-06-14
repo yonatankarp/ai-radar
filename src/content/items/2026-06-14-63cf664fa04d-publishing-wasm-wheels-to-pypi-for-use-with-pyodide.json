@@ -1,0 +1,13 @@
+{
+  "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+  "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/",
+  "source": "Simon Willison",
+  "discoveredAt": "2026-06-14T01:18:21.874Z",
+  "importance": "worth-reading",
+  "summary": "Publishing WASM wheels to PyPI for use with Pyodide",
+  "whyItMatters": "Publishing WASM wheels to PyPI for use with Pyodide",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-14"
+}
