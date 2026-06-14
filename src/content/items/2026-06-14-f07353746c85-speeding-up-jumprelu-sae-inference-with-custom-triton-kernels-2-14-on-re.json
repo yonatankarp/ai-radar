@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-14T04:18:31.156Z",
   "importance": "critical",
   "summary": "Speeding Up JumpReLU SAE Inference with Custom Triton Kernels (2–14× on Real SAEs)",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Motivation Sparse Autoencoders (SAEs) have become a central tool in mechanistic interpretability research, providing a way to decompose a model's internal activations into sparse, interpretable features. However, extracting these features often requires running the SAE over large volumes of activations across many layers and tokens. This makes SAE inference…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-14"
 }

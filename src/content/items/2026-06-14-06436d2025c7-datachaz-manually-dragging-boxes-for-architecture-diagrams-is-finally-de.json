@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-14T01:18:21.873Z",
   "importance": "critical",
   "summary": "@DataChaz: MANUALLY DRAGGING BOXES FOR ARCHITECTURE DIAGRAMS IS FINALLY DEAD There is a new open-source agent skill that turns raw",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "MANUALLY DRAGGING BOXES FOR ARCHITECTURE DIAGRAMS IS FINALLY DEAD There is a new open-source agent skill that turns raw codebases into cleanly routed http://draw.io diagrams without you placing a single coordinate. The project, drawio-skill, runs directly inside Claude Code, Cursor, or Copilot. Instead of opening a blank canvas, you just ask your agent to m…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-14"
 }
