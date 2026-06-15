@@ -1,0 +1,13 @@
+{
+  "title": "How to turn Claude Code into a domain specific coding agent",
+  "url": "https://www.langchain.com/blog/how-to-turn-claude-code-into-a-domain-specific-coding-agent",
+  "source": "LangChain Blog",
+  "discoveredAt": "2026-06-15T19:18:30.805Z",
+  "importance": "critical",
+  "summary": "How to turn Claude Code into a domain specific coding agent",
+  "whyItMatters": "Customize Claude Code for domain-specific libraries. Discover which context engineering techniques work best, with evaluation results and takeaways.",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-15"
+}

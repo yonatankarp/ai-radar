@@ -1,0 +1,13 @@
+{
+  "title": "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith",
+  "url": "https://www.langchain.com/blog/customers-new-computer",
+  "source": "LangChain Blog",
+  "discoveredAt": "2026-06-15T19:18:30.805Z",
+  "importance": "critical",
+  "summary": "Improving Memory Retrieval: How New Computer achieved 50% higher recall with LangSmith",
+  "whyItMatters": "New Computer used LangSmith to improve their memory retrieval system, achieving 50% higher recall by tracking regressions in comparison view and adjusting conversation prompts accordingly.",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-15"
+}
