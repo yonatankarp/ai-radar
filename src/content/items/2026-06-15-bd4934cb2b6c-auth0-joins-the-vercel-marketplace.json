@@ -1,0 +1,13 @@
+{
+  "title": "Auth0 joins the Vercel Marketplace",
+  "url": "https://vercel.com/changelog/auth0-joins-the-vercel-marketplace",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-15T10:18:24.880Z",
+  "importance": "critical",
+  "summary": "Auth0 joins the Vercel Marketplace",
+  "whyItMatters": "You can now add Auth0 , a production-ready authentication to your Vercel app in just a few clicks. Built for modern frameworks like Next.js, Auth0 is an identity and access management platform for securing your apps and agentic workflows. This integration enables: Automatic provisioning of an Auth0 application that connects to your Vercel project Out-of-the…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-15"
+}
