@@ -1,0 +1,13 @@
+{
+  "title": "Vercel Functions can now run up to 30 minutes",
+  "url": "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-15T16:18:30.422Z",
+  "importance": "critical",
+  "summary": "Vercel Functions can now run up to 30 minutes",
+  "whyItMatters": "Vercel Functions using the Node.js and Python runtimes now support execution durations up to 30 minutes for Pro and Enterprise teams, more than 2x the previous 800 second limit. Support for additional runtimes is coming soon. Use longer-running Functions for work that needs more time to finish, including: Long LLM reasoning and tool calls AI responses that…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-15"
+}
