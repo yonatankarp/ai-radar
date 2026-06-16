@@ -1,0 +1,13 @@
+{
+  "title": "Angles of attack for continual learning safety",
+  "url": "https://www.lesswrong.com/posts/FKggLpnfbpbYvnjfG/angles-of-attack-for-continual-learning-safety",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-16T19:18:34.222Z",
+  "importance": "critical",
+  "summary": "Angles of attack for continual learning safety",
+  "whyItMatters": "This is the fourth post in the sequence Implications of Continual Learning for LLM Agents . Summary Continual learning is a capability that largely doesn’t exist yet in LLMs. We first want to acknowledge that this may make it difficult to identify tractable angles of attack for making CL safer: it may be too difficult to predict how the development of CL wi…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-16"
+}
