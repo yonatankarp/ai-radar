@@ -1,0 +1,13 @@
+{
+  "title": "Predicting LLM Safety Before Release by Simulating Deployment",
+  "url": "https://www.lesswrong.com/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-16T22:18:24.755Z",
+  "importance": "critical",
+  "summary": "Predicting LLM Safety Before Release by Simulating Deployment",
+  "whyItMatters": "Paper link Before releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of our pre-deployment safety review, we leverage targeted evaluations, red-teaming, and other checks to un…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-17"
+}
