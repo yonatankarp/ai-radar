@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-15T19:18:30.806Z",
   "importance": "critical",
   "summary": "How to Debug & Evaluate AI Agents with Observability — LangChain Guide",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Learn how agent observability enables effective evaluation of AI agents. Understand tracing, debugging reasoning, and performance insights to iterate and improve agent behavior.",
   "tags": [
     "Agentic AI / workflow"
   ],

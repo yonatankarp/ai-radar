@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-15T19:18:30.806Z",
   "importance": "critical",
   "summary": "Agent Observability: How to Monitor and Evaluate LLM Agents in Production",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Production monitoring for LLM agents requires new observability tools. Learn how to trace, evaluate, and improve AI agents at scale.",
   "tags": [
     "Agentic AI / workflow"
   ],

@@ -1,0 +1,13 @@
+{
+  "title": "@DataChaz: 🚨How do you index the entire Linux kernel (28M lines of code) for an AI agent in 3 minutes? You stop letting the agent",
+  "url": "https://x.com/DataChaz/status/2066621765028327922",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-16T07:18:16.326Z",
+  "importance": "critical",
+  "summary": "@DataChaz: 🚨How do you index the entire Linux kernel (28M lines of code) for an AI agent in 3 minutes? You stop letting the agent",
+  "whyItMatters": "🚨How do you index the entire Linux kernel (28M lines of code) for an AI agent in 3 minutes? You stop letting the agent read files one by one. There is a fascinating new open-source release called codebase-memory-mcp. It's a code intelligence engine that swaps traditional file-searching for high-speed AST knowledge graphs. What makes this project stand out…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-16"
+}
