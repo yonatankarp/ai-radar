@@ -1,0 +1,13 @@
+{
+  "title": "Synthetic document finetuning for instilling positive traits",
+  "url": "https://www.lesswrong.com/posts/GTYJRLhqztxKF2v5R/synthetic-document-finetuning-for-instilling-positive-traits",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-16T01:18:24.755Z",
+  "importance": "critical",
+  "summary": "Synthetic document finetuning for instilling positive traits",
+  "whyItMatters": "This is the fifth in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The fourth post can be found here . TLDR: Via adapting the methods of Marks et al and Li et al , we train Gemini 3 Flash to have certain traits/values by midtraining it on documents about how Gemin…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-16"
+}
