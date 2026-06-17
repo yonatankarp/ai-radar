@@ -1,0 +1,13 @@
+{
+  "title": "If This Were a Test, How Much Would It Cost?",
+  "url": "https://www.lesswrong.com/posts/9cLQttpPTxogd2Gea/if-this-were-a-test-how-much-would-it-cost-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-17T01:18:23.335Z",
+  "importance": "critical",
+  "summary": "If This Were a Test, How Much Would It Cost?",
+  "whyItMatters": "TL;DR A capable, strategic, misaligned AI doesn't need to figure out whether it's in a test or in real deployment. It just needs to ask: \"If this were a test, how much would it have cost to create?\" If the answer is \"more than what the evaluator is able or willing to spend,\" then the AI can be confident it's in the real world — and act accordingly. We argue…",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-17"
+}
