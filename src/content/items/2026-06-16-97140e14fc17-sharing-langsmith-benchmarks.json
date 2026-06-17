@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-16T19:18:34.225Z",
   "importance": "critical",
   "summary": "Sharing LangSmith Benchmarks",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Share and compare LLM evaluation results with public LangSmith benchmarks. Test RAG systems, agents, and architectures on community datasets.",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-16"
 }

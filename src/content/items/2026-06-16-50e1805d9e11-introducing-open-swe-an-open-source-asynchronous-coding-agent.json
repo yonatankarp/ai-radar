@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-16T19:18:34.225Z",
   "importance": "critical",
   "summary": "Introducing Open SWE: An Open-Source Asynchronous Coding Agent",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Open SWE is an open-source, cloud-hosted coding agent that autonomously handles GitHub tasks—planning, coding, testing, and opening PRs.",
   "tags": [
     "Agentic AI / workflow"
   ],
