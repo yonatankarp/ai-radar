@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-17T10:18:24.439Z",
   "importance": "critical",
   "summary": "The Agent Stack",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Agents are designed to do almost any kind of work, from answering support tickets to writing code. No matter how complex the workload, how long it runs, or how many turns it takes to complete, every agent needs three core capabilities to operate: Agents need to connect to models and route between them Agents need to run workflows across many steps Agents ne…",
   "tags": [
     "Agentic AI / workflow"
   ],
