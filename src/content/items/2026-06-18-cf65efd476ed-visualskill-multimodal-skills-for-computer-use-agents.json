@@ -1,0 +1,13 @@
+{
+  "title": "VISUALSKILL: Multimodal Skills for Computer-Use Agents",
+  "url": "https://arxiv.org/abs/2606.18448",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-06-18T04:21:24.628Z",
+  "importance": "critical",
+  "summary": "VISUALSKILL: Multimodal Skills for Computer-Use Agents",
+  "whyItMatters": "Computer-use agents (CUAs) approach human-level performance on standardised benchmarks but still struggle on long-horizon tasks and unseen software. Existing skill libraries address this with reusable skills, but represent the skill artifact as text only, despite the visual nature of GUI interaction. We propose VISUALSKILL: a hierarchical multimodal skill,…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-18"
+}
