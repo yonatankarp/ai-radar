@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-17T21:15:02.583Z",
   "importance": "critical",
   "summary": "Vercel Connect: Secure access to external services for your agents",
-  "whyItMatters": "Vercel Connect lets your apps and agents access external services like Slack, GitHub, Salesforce, and your own custom APIs without storing a long-lived provider secret in your environment. You register a connector once, and your code requests scoped, short-lived tokens at runtime, only when it needs them. You can create a connector from your dashboard or th…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
