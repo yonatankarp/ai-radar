@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-18T19:18:24.137Z",
   "importance": "critical",
   "summary": "Introducing LangSmith’s No Code Agent Builder",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Build AI agents without code using LangSmith Agent Builder. Create agents with memory, guided prompts, and MCP tools—no technical expertise needed.",
   "tags": [
     "Agentic AI / workflow"
   ],
