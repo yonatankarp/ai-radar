@@ -1,0 +1,13 @@
+{
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "url": "https://huggingface.co/blog/peft-beyond-lora",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-06-18T16:18:15.949Z",
+  "importance": "worth-reading",
+  "summary": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "whyItMatters": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-18"
+}

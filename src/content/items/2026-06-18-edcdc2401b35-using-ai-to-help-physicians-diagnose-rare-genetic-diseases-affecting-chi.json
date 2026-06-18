@@ -1,0 +1,13 @@
+{
+  "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+  "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-06-18T16:18:15.949Z",
+  "importance": "worth-reading",
+  "summary": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+  "whyItMatters": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+  "tags": [
+    "Lab/model release"
+  ],
+  "issue": "2026-06-18"
+}

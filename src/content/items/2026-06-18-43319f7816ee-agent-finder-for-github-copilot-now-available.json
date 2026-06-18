@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-18T07:18:17.862Z",
   "importance": "critical",
   "summary": "Agent finder for GitHub Copilot now available",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "GitHub agent finder is now available. Instead of hand-wiring which MCP servers, skills, canvases, agents, and tools each agent should use—and filling your context window in the process—GitHub Copilot can… The post Agent finder for GitHub Copilot now available appeared first on The GitHub Blog .",
   "tags": [
     "Agentic AI / workflow"
   ],
