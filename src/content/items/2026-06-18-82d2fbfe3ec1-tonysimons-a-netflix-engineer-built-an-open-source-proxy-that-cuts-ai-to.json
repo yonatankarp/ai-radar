@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-17T23:00:44.684Z",
   "importance": "critical",
   "summary": "@tonysimons_: 🚨 A Netflix engineer built an open-source proxy that cuts AI token usage by 60-95%. Zero code changes. Benchmarks show",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "🚨 A Netflix engineer built an open-source proxy that cuts AI token usage by 60-95%. Zero code changes. Benchmarks show ±0.000 accuracy regression. ✨ 29.9k stars on GitHub. It sits between your app and the LLM, so every tool output, code block, and conversation history gets compressed in-flight. 🚫 No summarization, no loss. 😎 Just 60-95% fewer tokens with…",
   "tags": [
-    "Research / models"
+    "Community/social early signal"
   ],
   "issue": "2026-06-18"
 }

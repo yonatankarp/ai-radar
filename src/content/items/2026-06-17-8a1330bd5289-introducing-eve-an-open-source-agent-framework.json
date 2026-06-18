@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-17T10:18:24.439Z",
   "importance": "critical",
   "summary": "Introducing eve, an open-source agent framework",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "eve is now available in public preview. eve is an open-source framework for building, running, and scaling agents. An agent is just a directory of files, and production comes built in: Durable execution Sandboxed compute Human-in-the-loop approvals Subagents Evals The smallest agent that runs is just two files, a model and a set of instructions. Add a tool,…",
   "tags": [
     "Agentic AI / workflow"
   ],
