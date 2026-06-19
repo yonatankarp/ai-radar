@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-18T01:25:14.826Z",
   "importance": "critical",
   "summary": "@dvassallo: A few months ago my kids started vibecoding little web games with Cursor and wanted their friends to play them. GitHub P",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "A few months ago my kids started vibecoding little web games with Cursor and wanted their friends to play them. GitHub Pages was fine until the games needed real backends, so I hacked together a setup where each game was a folder in one repo that deployed to a Hetzner box on every push. That held up until we shipped FULL SEND for Vibe Jam 2026 and it took o…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-18"
 }
