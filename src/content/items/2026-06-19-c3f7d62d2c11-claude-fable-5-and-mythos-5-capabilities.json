@@ -1,0 +1,13 @@
+{
+  "title": "Claude Fable 5 and Mythos 5: Capabilities",
+  "url": "https://www.lesswrong.com/posts/kMnobCQp9z2pSbzDB/claude-fable-5-and-mythos-5-capabilities",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-19T16:18:28.560Z",
+  "importance": "critical",
+  "summary": "Claude Fable 5 and Mythos 5: Capabilities",
+  "whyItMatters": "Only three days after the release of Claude Fable 5, Anthropic was forced by the United States Government to make it unavailable, when a jailbreak was brought to its attention, rather than the previous situation of ‘yes obviously experts can jailbreak anything if they care enough’ and ‘yes obviously you can ask Fable to fix your code.’ Three days was enough…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-19"
+}
