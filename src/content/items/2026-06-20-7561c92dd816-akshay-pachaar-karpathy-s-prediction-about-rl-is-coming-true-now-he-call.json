@@ -1,0 +1,13 @@
+{
+  "title": "@akshay_pachaar: Karpathy's prediction about RL is coming true now! He called reward functions unreliable and argued that a single reward",
+  "url": "https://x.com/akshay_pachaar/status/2067969579188720028",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-20T10:18:14.217Z",
+  "importance": "critical",
+  "summary": "@akshay_pachaar: Karpathy's prediction about RL is coming true now! He called reward functions unreliable and argued that a single reward",
+  "whyItMatters": "Karpathy's prediction about RL is coming true now! He called reward functions unreliable and argued that a single reward number is too low-dimensional to teach an agent what \"good\" means for complex tasks. To solve this, Agents need a knowledge-guided review as a higher-dimensional feedback channel. Every major AI lab trains models with RL today (OpenAI, An…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-20"
+}
