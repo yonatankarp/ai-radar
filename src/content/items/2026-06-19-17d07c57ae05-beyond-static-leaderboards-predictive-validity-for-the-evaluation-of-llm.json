@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-19T04:18:20.369Z",
   "importance": "critical",
   "summary": "Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen parallel implementation studies covering new asset classes (including a multi-modal visual extension), alter…",
   "tags": [
     "Agentic AI / workflow"
   ],
