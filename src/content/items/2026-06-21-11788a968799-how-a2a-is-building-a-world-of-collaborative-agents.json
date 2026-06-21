@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-20T22:18:19.932Z",
   "importance": "worth-reading",
   "summary": "How A2A is Building a World of Collaborative Agents",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies…",
   "tags": [
     "Agentic AI / workflow"
   ],

@@ -1,0 +1,13 @@
+{
+  "title": "@akshay_pachaar: Web scraping will never be the same. (100% open-source visual search at scale) PixelRAG is a retrieval system that skips",
+  "url": "https://x.com/akshay_pachaar/status/2068317780064276917",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-21T01:18:18.159Z",
+  "importance": "critical",
+  "summary": "@akshay_pachaar: Web scraping will never be the same. (100% open-source visual search at scale) PixelRAG is a retrieval system that skips",
+  "whyItMatters": "Web scraping will never be the same. (100% open-source visual search at scale) PixelRAG is a retrieval system that skips HTML parsing completely. Instead of scraping a page into text and embedding chunks, it screenshots the page and retrieves the image. A vision-language model reads the answer straight off the pixels. Why that matters: parsing is where web…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-21"
+}
