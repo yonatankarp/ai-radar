@@ -1,0 +1,13 @@
+{
+  "title": "@DAIEvolutionHub: Web scraping will never be the same. PixelRAG just flipped the entire RAG pipeline on its head. Instead of parsing HTML",
+  "url": "https://x.com/DAIEvolutionHub/status/2068395510742835301",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-21T10:18:47.883Z",
+  "importance": "critical",
+  "summary": "@DAIEvolutionHub: Web scraping will never be the same. PixelRAG just flipped the entire RAG pipeline on its head. Instead of parsing HTML",
+  "whyItMatters": "Web scraping will never be the same. PixelRAG just flipped the entire RAG pipeline on its head. Instead of parsing HTML into text... It takes screenshots of webpages and retrieves the pixels. Then a vision model reads the answer directly from what a human would actually see. Why is this a big deal? Because traditional web RAG loses a shocking amount of info…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-21"
+}
