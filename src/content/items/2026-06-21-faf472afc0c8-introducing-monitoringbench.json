@@ -1,0 +1,13 @@
+{
+  "title": "Introducing MonitoringBench",
+  "url": "https://www.lesswrong.com/posts/2YyEQhFRyaBCgfRWd/introducing-monitoringbench",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-21T19:18:23.901Z",
+  "importance": "critical",
+  "summary": "Introducing MonitoringBench",
+  "whyItMatters": "Paper here , code , benchmark . Builds on the preview we posted in January . Authors: @monika_j , @ma-martinez , @ollie , @Tyler Tracy We are releasing MonitoringBench , a difficulty-graded benchmark of 2,644 successful attack trajectories for evaluating coding-agent monitors, alongside the semi-automated red-teaming pipeline we used to generate it. The pip…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-21"
+}
