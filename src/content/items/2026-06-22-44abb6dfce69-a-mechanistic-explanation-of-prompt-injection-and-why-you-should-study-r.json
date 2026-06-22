@@ -1,0 +1,13 @@
+{
+  "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
+  "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-22T16:18:17.597Z",
+  "importance": "critical",
+  "summary": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
+  "whyItMatters": "Summary We've been building a theory of how prompt injections work under the hood. We show it comes down to how LLMs perceive roles (the humble chat template tags). We use this theory to create new attacks, explain some weird mech interp results, and predict when attacks work. We also advocate for a new subfield focused on the science of roles, and sketch s…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-22"
+}

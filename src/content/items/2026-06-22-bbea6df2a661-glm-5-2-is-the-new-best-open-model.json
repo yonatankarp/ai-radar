@@ -3,11 +3,11 @@
   "url": "https://www.lesswrong.com/posts/reXkwJbB8GYdeuvDt/glm-5-2-is-the-new-best-open-model",
   "source": "LessWrong",
   "discoveredAt": "2026-06-22T13:18:28.756Z",
-  "importance": "critical",
+  "importance": "worth-reading",
   "summary": "GLM-5.2 Is The New Best Open Model",
-  "whyItMatters": "GLM-5.2 arrived last week. It boasts excellent benchmarks and looks strong. Benchmarks here are a de facto ceiling of how good it is, not a point estimate. Essentially all other aspects of an open model like this, beyond speed and price, will almost always be worse than the numbers suggest. Still, impressive. It is definitely a large step up from GLM-5.1, a…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-06-22"
 }

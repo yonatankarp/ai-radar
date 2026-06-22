@@ -1,0 +1,13 @@
+{
+  "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-06-22T16:18:17.600Z",
+  "importance": "worth-reading",
+  "summary": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "whyItMatters": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-22"
+}
