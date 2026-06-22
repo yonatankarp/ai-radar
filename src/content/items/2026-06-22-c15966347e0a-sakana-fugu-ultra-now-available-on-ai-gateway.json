@@ -1,0 +1,13 @@
+{
+  "title": "Sakana Fugu Ultra now available on AI Gateway",
+  "url": "https://vercel.com/changelog/sakana-fugu-ultra-now-available-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-22T10:18:36.234Z",
+  "importance": "critical",
+  "summary": "Sakana Fugu Ultra now available on AI Gateway",
+  "whyItMatters": "Sakana Fugu Ultra from Sakana AI is now available on AI Gateway . Fugu Ultra is built on a pool of publicly accessible frontier models, rather than running as a single model. It coordinates several models, routing work to 1-3 agents depending on the problem and combining their results into a single answer. Based on reasoning and scientific benchmarks, Fugu…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-22"
+}
