@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-22T01:18:22.048Z",
   "importance": "critical",
   "summary": "@mickces: Built a tiny macOS menu bar app that shows Claude Code's live status animated spark while thinking or running a tool, a",
-  "whyItMatters": "Built a tiny macOS menu bar app that shows Claude Code's live status animated spark while thinking or running a tool, a yellow dot when it needs your permission, and a live timer for the current turn. no bloat.. free, open source. signed DMG or one-line CLI plugin install · Built a tiny macOS menu bar app that shows Claude Code's live status animated spark…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Community/social early signal"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-22"
 }

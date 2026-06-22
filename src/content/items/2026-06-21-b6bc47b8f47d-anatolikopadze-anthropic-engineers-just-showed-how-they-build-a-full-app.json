@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-21T16:18:21.820Z",
   "importance": "critical",
   "summary": "@AnatoliKopadze: Anthropic engineers just showed how they build a full app from scratch, using a loop of agents 40 minutes from the team",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Anthropic engineers just showed how they build a full app from scratch, using a loop of agents 40 minutes from the team behind Claude Code they used three agents: one to plan, one to build, one to judge, cycling until the app actually works the winners won't have the smartest model, they'll have the best loop watch it, then read the full guide on how to act…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-21"
 }
