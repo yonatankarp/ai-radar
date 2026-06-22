@@ -1,0 +1,13 @@
+{
+  "title": "Vercel Flags: Platform-native feature flags",
+  "url": "https://vercel.com/blog/vercel-flags-platform-native-feature-flags",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-22T22:18:18.612Z",
+  "importance": "critical",
+  "summary": "Vercel Flags: Platform-native feature flags",
+  "whyItMatters": "At Vercel, feature flags are how we ship. From new features to model updates in v0, and even infrastructure changes like a production database migration where a flag was the cutover. The v0 team alone runs hundreds at any given moment. Merging code sends a build to production, but the feature flags control whether users can see what changed. Flags let you s…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-23"
+}
