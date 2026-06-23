@@ -1,0 +1,13 @@
+{
+  "title": "@Oluwaphilemon1: Claude Fable 5 is dead and GPT-5.6 delaying launch… Microsoft has changed the game 🤯 They've open-sourced bitnet.cpp, a",
+  "url": "https://x.com/Oluwaphilemon1/status/2069201830727262573",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-23T22:18:21.069Z",
+  "importance": "critical",
+  "summary": "@Oluwaphilemon1: Claude Fable 5 is dead and GPT-5.6 delaying launch… Microsoft has changed the game 🤯 They've open-sourced bitnet.cpp, a",
+  "whyItMatters": "Claude Fable 5 is dead and GPT-5.6 delaying launch… Microsoft has changed the game 🤯 They've open-sourced bitnet.cpp, a 1-bit LLM inference framework. It let's you run 100B parameter models on your local CPU without GPUs. - 6.17x faster inference - 82.2% less energy on CPUs 100% Open Source. · fxtwitter expansion: 901 likes, 94 retweets, 48 replies, 7 quot…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-24"
+}
