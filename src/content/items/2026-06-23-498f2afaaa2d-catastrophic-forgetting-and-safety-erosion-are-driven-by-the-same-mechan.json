@@ -1,0 +1,13 @@
+{
+  "title": "Catastrophic Forgetting and Safety Erosion Are Driven by the Same Mechanism and Should Be Monitored by the Same Tools",
+  "url": "https://www.lesswrong.com/posts/PGpyZh78FHGsGz6en/catastrophic-forgetting-and-safety-erosion-are-driven-by-the",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-23T13:18:29.971Z",
+  "importance": "critical",
+  "summary": "Catastrophic Forgetting and Safety Erosion Are Driven by the Same Mechanism and Should Be Monitored by the Same Tools",
+  "whyItMatters": "This paper is about an observation I made, as an outsider to two distinct research currents in artificial intelligence, regarding the similarity of the phenomenon they each observe and the potential for these two fields to converge toward shared tools. You will find a mix of established results, some unreviewed papers, and my own proposals, all clearly labe…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-23"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "A system overview for near-term, low-trust AI compute verification",
+  "url": "https://www.lesswrong.com/posts/fgvmKqRGvBteKeDoc/a-system-overview-for-near-term-low-trust-ai-compute",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-23T13:18:29.970Z",
+  "importance": "critical",
+  "summary": "A system overview for near-term, low-trust AI compute verification",
+  "whyItMatters": "Version 0.2, working draft This is a working draft of my current best idea for a privacy-preserving, retrofittable AI compute verification system, for confidence-building in an arms-control-like AI agreement between rival nation states. The purpose of this draft is to elicit community engagement by making use of Cunningham’s law : I make assertions about wh…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-23"
+}
