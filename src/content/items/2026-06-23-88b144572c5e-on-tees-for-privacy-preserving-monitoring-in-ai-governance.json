@@ -1,0 +1,13 @@
+{
+  "title": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
+  "url": "https://www.lesswrong.com/posts/kauQxzfS7fT5yHN8C/on-tees-for-privacy-preserving-monitoring-in-ai-governance",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-23T04:18:14.475Z",
+  "importance": "critical",
+  "summary": "On TEEs for Privacy-Preserving Monitoring in AI Governance",
+  "whyItMatters": "This project was conducted as part of MIRI Technical Governance Fellowship. Thank you to Aaron Scher for guidance. It does not necessarily reflect the views of the organization. Overview Trusted Execution Environments (TEEs) spark excitement and skepticism in the realm of AI governance verification. TEEs could be a robust way to restrict and monitor AI depl…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-23"
+}
