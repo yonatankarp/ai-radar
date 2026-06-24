@@ -1,0 +1,13 @@
+{
+  "title": "Critique of Agent Model",
+  "url": "https://arxiv.org/abs/2606.23991",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-24T04:18:28.075Z",
+  "importance": "critical",
+  "summary": "Critique of Agent Model",
+  "whyItMatters": "What is an agent? What constitutes agency? With the rise of Large Language Model (LLM) systems marketed as ``coding agents'', ``AI co-scientists'', and other ``agentic\" tools that promise to drive up productivity, and at the same time, ``existential\" concerns such as AI escaping human control with destructive power under a speculative ``machine agency\" agai…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-24"
+}
