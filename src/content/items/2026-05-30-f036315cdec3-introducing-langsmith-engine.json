@@ -3,11 +3,11 @@
   "url": "https://www.langchain.com/blog/introducing-langsmith-engine",
   "source": "LangChain Blog",
   "discoveredAt": "2026-05-30T07:18:15.638Z",
-  "importance": "worth-reading",
+  "importance": "critical",
   "summary": "Introducing Langsmith Engine",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "LangSmith Engine watches your production traces, clusters failures into named issues, and proposes targeted fixes and eval coverage. Stop manually triaging agent failures.",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-05-30"
 }

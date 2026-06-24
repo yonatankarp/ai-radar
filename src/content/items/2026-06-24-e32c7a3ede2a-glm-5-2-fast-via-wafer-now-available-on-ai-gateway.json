@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-24T19:18:27.189Z",
   "importance": "critical",
   "summary": "GLM 5.2 Fast via Wafer now available on AI Gateway",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "GLM 5.2 Fast via Wafer is now available on AI Gateway . Based on our own benchmarking across small-context, large-context, and tool-call scenarios, Wafer delivers a 2x higher throughput than other providers serving GLM-5.2 on serverless, leading on decode and end-to-end speed for sustained generation in the small- and large-context cases. In our testing, GL…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-24"
 }

@@ -5,7 +5,7 @@
   "discoveredAt": "2026-05-29T07:18:22.395Z",
   "importance": "critical",
   "summary": "The Agent Development Lifecycle: Build, Test, Deploy & Monitor AI Agents | LangChain",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Learn how leading engineering teams ship AI agents reliably and repeatedly using a four-phase agent development lifecycle: Build, Test, Deploy, and Monitor. Includes guidance on evals, runtimes, observability, and governance at scale.",
   "tags": [
     "Agentic AI / workflow"
   ],
