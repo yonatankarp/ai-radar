@@ -1,0 +1,13 @@
+{
+  "title": "Reasoning and learning about injected concepts in language models",
+  "url": "https://www.lesswrong.com/posts/de2qaz6G3qrFZvQqK/reasoning-and-learning-about-injected-concepts-in-language-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-24T07:18:01.360Z",
+  "importance": "critical",
+  "summary": "Reasoning and learning about injected concepts in language models",
+  "whyItMatters": "This work was done as a part of SPAR , under the mentorship of Mirko Bronzi and Damiano Fornasiere. TL;DR We test models' ability to recover information about their activations by injecting steering vectors, and asking the LLMs to verbalize properties of them. We train models with in-context learning and test for three capabilities: Can models identify the…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-24"
+}

@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-24T04:18:28.076Z",
   "importance": "critical",
   "summary": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Spatial proteomics enables single-cell-resolution characterization of protein expression within tissue architecture, playing a critical role in understanding tumor microenvironments and guiding precision medicine. However, current analysis workflows remain fragmented, requiring expert manual orchestration of heterogeneous tools and limiting research scalabi…",
   "tags": [
     "Agentic AI / workflow"
   ],
