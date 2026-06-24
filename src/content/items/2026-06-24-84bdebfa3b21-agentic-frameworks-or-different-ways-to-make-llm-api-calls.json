@@ -1,0 +1,13 @@
+{
+  "title": "Agentic Frameworks: Or different ways to make LLM API calls",
+  "url": "https://www.lesswrong.com/posts/YMw2PhtDGcCwgc4GA/agentic-frameworks-or-different-ways-to-make-llm-api-calls",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-24T01:18:31.356Z",
+  "importance": "critical",
+  "summary": "Agentic Frameworks: Or different ways to make LLM API calls",
+  "whyItMatters": "The agentic framework research has produced some very interesting results; from different topologies to different ways of using tool-calls, it has been one of the most fascinating and accessible areas of research in the AI landscape. In this essay, I’d like to talk about some core structures that sit at the heart of various agentic framework applications we…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-24"
+}
