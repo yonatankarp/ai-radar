@@ -1,0 +1,13 @@
+{
+  "title": "AI SDK 7",
+  "url": "https://vercel.com/blog/ai-sdk-7",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-25T13:18:26.717Z",
+  "importance": "critical",
+  "summary": "AI SDK 7",
+  "whyItMatters": "AI SDK, with over 16 million weekly downloads, is the TypeScript SDK for building AI applications, features, frameworks, and agents across any model provider. It's the same layer eve , Vercel's open-source agent framework, is built on. AI SDK 7 adds production depth for agent work across five areas: Develop agents with reasoning control, tool and runtime co…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-25"
+}

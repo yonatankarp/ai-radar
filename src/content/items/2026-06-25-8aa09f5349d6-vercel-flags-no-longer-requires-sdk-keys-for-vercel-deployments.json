@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-25T10:18:22.094Z",
   "importance": "critical",
   "summary": "Vercel Flags no longer requires SDK Keys for Vercel deployments",
-  "whyItMatters": "New projects using Vercel Flags no longer need to configure SDK Keys or the FLAGS environment variable when evaluating flags inside a Vercel deployment. At runtime, the Vercel adapter automatically receives a short-lived OIDC token, so authentication is handled for you with zero configuration. For local development, link your project with vercel link and pu…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Practical tooling / usage"
   ],
   "issue": "2026-06-25"
 }
