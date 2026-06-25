@@ -1,0 +1,13 @@
+{
+  "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
+  "url": "https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/",
+  "source": "The Decoder",
+  "discoveredAt": "2026-06-25T10:18:22.094Z",
+  "importance": "critical",
+  "summary": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
+  "whyItMatters": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorld benchmark, it scores 78.4, putting it on par with GPT-5.5. Developers can use the Gemini API to build agents for software testing or office automation. The article Google bakes computer control dir…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-25"
+}
