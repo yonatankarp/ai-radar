@@ -1,0 +1,13 @@
+{
+  "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-06-25T07:18:28.902Z",
+  "importance": "worth-reading",
+  "summary": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "whyItMatters": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-25"
+}

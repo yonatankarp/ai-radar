@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-24T19:18:27.189Z",
   "importance": "critical",
   "summary": "@AnatoliKopadze: The engineers behind Claude Code just published a 5-PAGE PDF on loop engineering for LLM code. They run an LLM through 5",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "The engineers behind Claude Code just published a 5-PAGE PDF on loop engineering for LLM code. They run an LLM through 5 loops: compile errors, static analysis, tests, until the code gets way better. Every step is written out, so you can drop it into your own workflow immediately. Read it, then check the article below. Worth every second. · fxtwitter expans…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-24"
 }
