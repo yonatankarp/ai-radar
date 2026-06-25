@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-25T10:18:22.093Z",
   "importance": "critical",
   "summary": "@Alibaba_Qwen: 📣📣 Meet Qwen-AgentWorld — a native language world model that simulates 7 agent environments (MCP, Search, Terminal, SW",
-  "whyItMatters": "📣📣 Meet Qwen-AgentWorld — a native language world model that simulates 7 agent environments (MCP, Search, Terminal, SWE, Web, OS, Android) within a single model. Environment modeling is the training objective from day one, not a post-hoc adaptation. 🤔 LLMs are trained to be better agents — better at acting in environments. But nobody has trained them to…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Community/social early signal"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-25"
 }
