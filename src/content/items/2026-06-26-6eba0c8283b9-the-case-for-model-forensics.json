@@ -1,0 +1,13 @@
+{
+  "title": "The Case for Model Forensics",
+  "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics",
+  "source": "Alignment Forum",
+  "discoveredAt": "2026-06-26T16:18:25.554Z",
+  "importance": "critical",
+  "summary": "The Case for Model Forensics",
+  "whyItMatters": "If we had a misalignment warning shot, would we be able to tell? Suppose an AI company catches their model taking an egregious action, like deleting oversight code that monitors its actions. Should they sound the alarm? A key piece of evidence to determine what to do next – such as what mitigations to take – is to understand why the model took the action. I…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-26"
+}
