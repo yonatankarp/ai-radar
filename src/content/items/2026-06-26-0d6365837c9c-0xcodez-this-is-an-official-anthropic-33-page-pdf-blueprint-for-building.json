@@ -1,0 +1,13 @@
+{
+  "title": "@0xCodez: This is an official ANTHROPIC 33-page PDF blueprint for building \"Effective AI Agents.\" Not theory. Architecture pattern",
+  "url": "https://x.com/0xCodez/status/2070128010317930527",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-26T04:18:21.615Z",
+  "importance": "critical",
+  "summary": "@0xCodez: This is an official ANTHROPIC 33-page PDF blueprint for building \"Effective AI Agents.\" Not theory. Architecture pattern",
+  "whyItMatters": "This is an official ANTHROPIC 33-page PDF blueprint for building \"Effective AI Agents.\" Not theory. Architecture patterns with real case studies from Claude, Coinbase, Stripe, Intercom, and others. Perceive → Decide → Act → Evaluate → Repeat Five patterns, from simple to complex: • Single agent: one model in a loop. Handles 80% of use cases. Don't over-engi…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-26"
+}
