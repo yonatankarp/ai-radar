@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-25T22:18:22.788Z",
   "importance": "critical",
   "summary": "Deep Agents and OpenCode are now available in the AI SDK Harness",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "The AI SDK Harness lets you run established coding-agent runtimes through one unified interface, so you can switch runtimes without changing your application code. Today we're adding two new adapters, Deep Agents and OpenCode, both running inside a Vercel Sandbox. Deep Agents @ai-sdk/harness-deepagents adapts LangChain's deepagents runtime, with built-in fi…",
   "tags": [
     "Agentic AI / workflow"
   ],
