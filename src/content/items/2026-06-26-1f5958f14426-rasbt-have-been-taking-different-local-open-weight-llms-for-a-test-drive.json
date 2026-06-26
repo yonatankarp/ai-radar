@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-26T16:18:25.557Z",
   "importance": "critical",
   "summary": "@rasbt: Have been taking different local open-weight LLMs for a test drive in different harnesses (Qwen-Code, Codex, Claude Code",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Have been taking different local open-weight LLMs for a test drive in different harnesses (Qwen-Code, Codex, Claude Code). 30B Mixture-of-Expert models are kind of a nice sweet spot and can solve challenging problems. And they get roughly 40 tok/sec on a Mac or DGX Spark, which is similar to GPT 5.5 in a Pro subscription and totally useable for everyday wor…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-06-26"
 }
