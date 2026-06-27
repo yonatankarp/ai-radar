@@ -1,0 +1,13 @@
+{
+  "title": "Just a Wrapper? How Much Do Scaffolds Matter?",
+  "url": "https://www.lesswrong.com/posts/jXLi3dhSpSMd7B6z8/just-a-wrapper-how-much-do-scaffolds-matter-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-27T01:18:24.269Z",
+  "importance": "critical",
+  "summary": "Just a Wrapper? How Much Do Scaffolds Matter?",
+  "whyItMatters": "Authors: Hans Gundlach, Zachary Brown, Jayson Lynch, and Neil Thompson I am the shape the water takes. — ClawdBot, Moltbook TL;DR: ● Scaffolding — the software environment and contextual documents provided to an AI model at deployment — can yield significant performance improvements. In some cases, a model’s inference efficiency on a benchmark can vary by 1…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-27"
+}
