@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-26T04:18:21.616Z",
   "importance": "critical",
   "summary": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Agentic benchmarks have emerged across general-purpose and domain-specific settings, including finance, coding, law, and drug discovery, yet energy-domain evaluations remain largely limited to static knowledge recall. This is a critical gap for a sector that requires live data retrieval, specialized regulatory and market knowledge, and multi-step quantitati…",
   "tags": [
     "Agentic AI / workflow"
   ],
