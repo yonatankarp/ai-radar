@@ -1,0 +1,13 @@
+{
+  "title": "Anthropomorphic Misalignment research needs stronger evidence",
+  "url": "https://www.lesswrong.com/posts/bJcR3yP2avGFuMxyq/anthropomorphic-misalignment-research-needs-stronger-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-28T19:18:34.052Z",
+  "importance": "critical",
+  "summary": "Anthropomorphic Misalignment research needs stronger evidence",
+  "whyItMatters": "This is a distillation of our ICML 2026 Oral position paper, Position: Anthropomorphic Misalignment Research Needs Stronger Evidence . Joint work by Vansh Gupta, Peter Nutter, Samuel Stante, Andreas Krause, Florian Tramèr, Lukas Fluri, Xin Chen, and Anna Hedström at ETH Zurich. Code is here . TL;DR AI safety research increasingly studies behaviors that soun…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-28"
+}

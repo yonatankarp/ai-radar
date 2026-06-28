@@ -1,0 +1,13 @@
+{
+  "title": "@omarsar0: If you use LLM-as-judge, this one is worth reading. (bookmark it) It's actually one of the most effective ways to use LL",
+  "url": "https://x.com/omarsar0/status/2070942495832470001",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-28T19:18:34.053Z",
+  "importance": "critical",
+  "summary": "@omarsar0: If you use LLM-as-judge, this one is worth reading. (bookmark it) It's actually one of the most effective ways to use LL",
+  "whyItMatters": "If you use LLM-as-judge, this one is worth reading. (bookmark it) It's actually one of the most effective ways to use LLM-as-a-Judge for evals. Holistic judge scores hide both their reasoning and their ceiling effects. BINEVAL decomposes each evaluation criterion into atomic yes-or-no questions, answers each independently per output, then aggregates the ver…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-28"
+}
