@@ -1,0 +1,13 @@
+{
+  "title": "Can we use steering vectors to suppress reward-hacking? Somewhat",
+  "url": "https://www.lesswrong.com/posts/kzri5W2uBfF2mdboK/can-we-use-steering-vectors-to-suppress-reward-hacking-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-06-28T07:18:28.821Z",
+  "importance": "critical",
+  "summary": "Can we use steering vectors to suppress reward-hacking? Somewhat",
+  "whyItMatters": "Can steering vectors drive gradient routing? Yes, but not in realistic reward hacking environments, they are not precise enough classifiers of hacky vs clean solutions. Instead, can we use a steering vector to initialise adapters so that gradient routing happens without a classifier, and we get automatic seperation of hacky and clean gradients? Partly! This…",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-28"
+}
