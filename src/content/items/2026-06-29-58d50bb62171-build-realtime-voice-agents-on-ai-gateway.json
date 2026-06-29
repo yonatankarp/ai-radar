@@ -1,0 +1,13 @@
+{
+  "title": "Build realtime voice agents on AI Gateway",
+  "url": "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-29T16:18:31.532Z",
+  "importance": "critical",
+  "summary": "Build realtime voice agents on AI Gateway",
+  "whyItMatters": "AI Gateway now supports audio/voice. You can add realtime voice, text to speech, and speech to text with the same calls you already use for text, image, and video, routed through AI Gateway alongside every other modality. Audio launches with models from OpenAI and xAI . Each call gets the same provider routing, observability, spend controls, and bring-your-…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-29"
+}
