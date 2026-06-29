@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-29T16:18:31.533Z",
   "importance": "critical",
   "summary": "@hasantoxr: I found the OCR tool built for the LLM era. It is called olmOCR. olmOCR takes PDFs, scans, PNGs, and JPEGs and turns the",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "I found the OCR tool built for the LLM era. It is called olmOCR. olmOCR takes PDFs, scans, PNGs, and JPEGs and turns them into clean Markdown that models can actually understand. It handles the stuff that normally breaks document pipelines: → Tables → Equations → Handwriting → Multi-column layouts → Figures → Insets → Old scans → Headers and footers → Natur…",
   "tags": [
     "Community/social early signal"
   ],

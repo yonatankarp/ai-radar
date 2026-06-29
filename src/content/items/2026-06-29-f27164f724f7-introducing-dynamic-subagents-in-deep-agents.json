@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-29T16:18:31.533Z",
   "importance": "critical",
   "summary": "Introducing Dynamic Subagents in Deep Agents",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Dynamic subagents let AI agents orchestrate work at scale using code instead of tool calls. Learn how programmatic orchestration in Deep Agents guarantees coverage, handles fan-out, and unlocks reliable multi-step, complex agent pipelines with common orchestration patterns and live traces.",
   "tags": [
     "Agentic AI / workflow"
   ],

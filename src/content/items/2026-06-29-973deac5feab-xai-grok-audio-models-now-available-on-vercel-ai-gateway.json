@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-29T19:18:38.707Z",
   "importance": "critical",
   "summary": "xAI Grok audio models now available on Vercel AI Gateway",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "xAI's audio models are now live on AI Gateway. Realtime voice, text to speech, and speech to text are all available through the AI SDK with the same routing, observability, and spend controls as your other models. These capabilities are available on the AI SDK 7 release. Available models Capability Models Realtime voice xai/grok-voice-think-fast-1.0 Text to…",
   "tags": [
-    "Lab/model release"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-29"
 }

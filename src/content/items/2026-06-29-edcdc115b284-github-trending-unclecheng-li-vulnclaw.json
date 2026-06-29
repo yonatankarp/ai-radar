@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-29T13:18:32.130Z",
   "importance": "critical",
   "summary": "GitHub trending: Unclecheng-li/VulnClaw",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Star Unclecheng-li / VulnClaw 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。 · Language: Python",
   "tags": [
     "Agentic AI / workflow"
   ],

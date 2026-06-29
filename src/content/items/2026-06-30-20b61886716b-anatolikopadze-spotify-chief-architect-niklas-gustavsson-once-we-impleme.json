@@ -1,0 +1,13 @@
+{
+  "title": "@AnatoliKopadze: Spotify Chief Architect, Niklas Gustavsson: \"Once we implemented loops in our workflow, our agent success rate went from",
+  "url": "https://x.com/AnatoliKopadze/status/2071649423042412597",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-06-29T22:18:25.589Z",
+  "importance": "critical",
+  "summary": "@AnatoliKopadze: Spotify Chief Architect, Niklas Gustavsson: \"Once we implemented loops in our workflow, our agent success rate went from",
+  "whyItMatters": "Spotify Chief Architect, Niklas Gustavsson: \"Once we implemented loops in our workflow, our agent success rate went from 20-30% to 80%.\" 26 minutes with Claude Code creator Boris Cherny on how Spotify runs AI agents across 20 million lines of code. Today 73% of their code is written by AI, most merged without a human ever seeing it. The model matters less t…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-06-30"
+}
