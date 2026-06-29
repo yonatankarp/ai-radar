@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-29T16:18:31.532Z",
   "importance": "critical",
   "summary": "Realtime voice, speech, and transcription now supported on AI Gateway",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "AI Gateway now supports voice and audio models. You can build realtime voice agents, generate speech from text, and transcribe audio to text. This provides the same observability, spend controls, and bring-your-own-key support as text, image, and video models in AI Gateway, with no markup or platform fees. These capabilities are in beta and available via AI…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-29"
 }

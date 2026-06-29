@@ -1,0 +1,13 @@
+{
+  "title": "DiScoFormer: One transformer for density and score, across distributions",
+  "url": "https://huggingface.co/blog/allenai/discoformer",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-06-29T19:18:38.709Z",
+  "importance": "worth-reading",
+  "summary": "DiScoFormer: One transformer for density and score, across distributions",
+  "whyItMatters": "DiScoFormer: One transformer for density and score, across distributions",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-06-29"
+}
