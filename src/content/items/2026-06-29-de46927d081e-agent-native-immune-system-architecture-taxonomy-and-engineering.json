@@ -1,0 +1,13 @@
+{
+  "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+  "url": "https://arxiv.org/abs/2606.28270",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-29T04:18:24.550Z",
+  "importance": "critical",
+  "summary": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+  "whyItMatters": "The transition from static chat bots to autonomous agents--equipped with persistent memory, tool-use protocols, and multi-agent collaboration--has fundamentally expanded the AI threat landscape. Current defense mechanisms, such as perimeter security and training-time alignment, remain external to the agent's active reasoning loop. Consequently, they fall sh…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-29"
+}
