@@ -1,0 +1,13 @@
+{
+  "title": "Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem",
+  "url": "https://arxiv.org/abs/2606.29116",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-30T04:18:16.526Z",
+  "importance": "critical",
+  "summary": "Characterizing Large Language Model Agentic Workflows: A Study on N8n Ecosystem",
+  "whyItMatters": "Large Language Models (LLMs) are rapidly being adopted in low-code and no-code automation platforms, where non-expert users design workflows that combine natural language understanding with external services and APIs. LLM agents are LLM systems that use LLMs as a core \"brain\" to reason, plan, and autonomously execute complex, multi-step tasks. In this paper…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-30"
+}

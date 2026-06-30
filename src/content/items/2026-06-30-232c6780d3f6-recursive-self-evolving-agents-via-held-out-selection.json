@@ -1,0 +1,13 @@
+{
+  "title": "Recursive Self-Evolving Agents via Held-Out Selection",
+  "url": "https://arxiv.org/abs/2606.28374",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-06-30T04:18:16.528Z",
+  "importance": "critical",
+  "summary": "Recursive Self-Evolving Agents via Held-Out Selection",
+  "whyItMatters": "LLM agents are increasingly improved without weight updates by evolving a natural-language artifact, such as reflections, workflows, playbooks, cheatsheets, or optimized prompts, that conditions a frozen policy. Such methods are typically reported as wins on the single benchmark where they help. We study them apples-to-apples and surface a sharper picture.…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-30"
+}
