@@ -1,0 +1,13 @@
+{
+  "title": "Run any Dockerfile on Vercel",
+  "url": "https://vercel.com/blog/dockerfile-on-vercel",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-06-30T16:18:38.607Z",
+  "importance": "critical",
+  "summary": "Run any Dockerfile on Vercel",
+  "whyItMatters": "You have a server in a container. Maybe it's a Go service, a Rails app, a Spring Boot API, or a web server behind nginx. It speaks HTTP. It listens on a port. It just needs somewhere to run. Add a Dockerfile.vercel file to your project, and Vercel builds, stores, deploys, and autoscales the image on Fluid compute , so you pay only for the CPU your code uses…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-06-30"
+}
