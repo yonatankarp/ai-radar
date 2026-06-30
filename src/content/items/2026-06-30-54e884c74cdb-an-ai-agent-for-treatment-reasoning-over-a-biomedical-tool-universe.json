@@ -3,7 +3,7 @@
   "url": "https://arxiv.org/abs/2606.28692",
   "source": "arXiv cs.AI recent",
   "discoveredAt": "2026-06-30T04:18:16.528Z",
-  "importance": "critical",
+  "importance": "worth-reading",
   "summary": "An AI agent for treatment reasoning over a biomedical tool universe",
   "whyItMatters": "Treatment reasoning underpins every therapeutic decision, integrating disease context, comorbidities, medications, contraindications, and evolving biomedical knowledge to select an appropriate therapy. It is inherently iterative: candidates are weighed against many constraints, revised as evidence emerges, and grounded in verifiable sources. Here we introdu…",
   "tags": [
