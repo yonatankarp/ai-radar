@@ -1,0 +1,13 @@
+{
+  "title": "Core dump epidemiology: fixing an 18-year-old bug",
+  "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-06-30T22:18:44.166Z",
+  "importance": "worth-reading",
+  "summary": "Core dump epidemiology: fixing an 18-year-old bug",
+  "whyItMatters": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+  "tags": [
+    "Lab/model release"
+  ],
+  "issue": "2026-07-01"
+}
