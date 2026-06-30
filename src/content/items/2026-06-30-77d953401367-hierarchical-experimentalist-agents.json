@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-30T04:18:16.528Z",
   "importance": "critical",
   "summary": "Hierarchical Experimentalist Agents",
-  "whyItMatters": "Large language models (LLMs) are increasingly used to take actions in the real world and support human decision-making, yet most agents rely on parametric knowledge, fixed post-training data, retrieval, or search. This paradigm breaks down in novel domains and for sophisticated queries that cannot be answered from prior knowledge alone. Knowing the laws of…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
