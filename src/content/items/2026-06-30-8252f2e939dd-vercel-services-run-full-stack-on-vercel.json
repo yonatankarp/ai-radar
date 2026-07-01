@@ -5,9 +5,9 @@
   "discoveredAt": "2026-06-30T16:18:38.605Z",
   "importance": "critical",
   "summary": "Vercel Services: Run full stack on Vercel",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "To a user, an app with a Next.js frontend and a FastAPI backend feels like one product, and the same should be true for the engineers who build it. Instead, the two pieces are often deployed across different clouds with different development and deployment workflows. Today we're introducing Vercel Services , which lets you run multiple frameworks in one Ver…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-06-30"
 }
