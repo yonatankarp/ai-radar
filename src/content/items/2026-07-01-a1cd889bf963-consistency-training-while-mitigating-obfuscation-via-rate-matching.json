@@ -1,0 +1,13 @@
+{
+  "title": "Consistency Training while Mitigating Obfuscation via Rate Matching",
+  "url": "https://www.lesswrong.com/posts/z2zYWnbGjcs6ypbsj/consistency-training-while-mitigating-obfuscation-via-rate",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-01T19:18:27.485Z",
+  "importance": "critical",
+  "summary": "Consistency Training while Mitigating Obfuscation via Rate Matching",
+  "whyItMatters": "Sohaib Imran, Prakhar Gupta, Jannes Elstner, David Demitri Africa Links: &nbsp; Paper | Code &nbsp; TL;DR. &nbsp; Models condition their behavior on extraneous input features in undesirable ways — for example, on evaluation-likeness (resulting in evaluation gaming), or on the user's preferred answer (resulting in sycophancy). Consistency training teaches a…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-01"
+}
