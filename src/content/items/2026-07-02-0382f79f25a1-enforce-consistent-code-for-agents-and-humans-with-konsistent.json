@@ -1,0 +1,13 @@
+{
+  "title": "Enforce consistent code for agents and humans with konsistent",
+  "url": "https://vercel.com/changelog/enforce-consistent-code-for-agents-and-humans-with-konsistent",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-07-01T22:18:25.299Z",
+  "importance": "critical",
+  "summary": "Enforce consistent code for agents and humans with konsistent",
+  "whyItMatters": "konsistent is now open source. konsistent is a CLI linter for TypeScript codebases that enforces structural conventions, giving agents and humans the consistent context they need to implement features correctly. Deterministic, fast, and covers structural patterns that TypeScript and ESLint don't model. Configure conventions in a project-level konsistent.jso…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-02"
+}
