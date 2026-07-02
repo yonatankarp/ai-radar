@@ -1,0 +1,13 @@
+{
+  "title": "OpenWiki: Open Source Repo Documentation for Coding Agents",
+  "url": "https://www.langchain.com/blog/introducing-openwiki-an-open-source-agent-for-repo-documentation",
+  "source": "LangChain Blog",
+  "discoveredAt": "2026-07-02T22:18:28.721Z",
+  "importance": "critical",
+  "summary": "OpenWiki: Open Source Repo Documentation for Coding Agents",
+  "whyItMatters": "OpenWiki generates and maintains codebase documentation so coding agents can find the repo context they need without loading everything into one instruction file.",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-03"
+}
