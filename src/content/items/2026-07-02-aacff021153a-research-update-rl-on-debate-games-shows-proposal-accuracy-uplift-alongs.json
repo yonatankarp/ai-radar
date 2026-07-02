@@ -1,0 +1,13 @@
+{
+  "title": "Research update: RL on Debate Games shows Proposal Accuracy uplift alongside Judge Hacking",
+  "url": "https://www.lesswrong.com/posts/6mLwAuFAE98c6R7w3/research-update-rl-on-debate-games-shows-proposal-accuracy",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-02T19:18:40.038Z",
+  "importance": "critical",
+  "summary": "Research update: RL on Debate Games shows Proposal Accuracy uplift alongside Judge Hacking",
+  "whyItMatters": "The first three sections are written for a general TAIS reader who wants to understand what the state of Debate research is and some high-level takeaways of our work. A reader familiar with Debate may like to skip the setup and start with our presentation of An illustrative training run . The remaining sections are written primarily for ‘motivated’ readers,…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-02"
+}

@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-02T04:18:29.884Z",
   "importance": "critical",
   "summary": "@pdiscoveryio: Today we're launching https://t.co/7C21vf5hmL It gives any AI agent ready-to-use security context for thousands of open",
-  "whyItMatters": "Today we're launching http://securitycontext.dev It gives any AI agent ready-to-use security context for thousands of open source projects, built from each project's commit history of security fixes and its disclosed CVEs. Useful whether your agent is writing code or reviewing it for bugs. Free, no auth, over MCP and API. · Today we're launching https://t.c…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Community/social early signal"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-02"
 }
