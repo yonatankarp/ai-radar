@@ -1,0 +1,13 @@
+{
+  "title": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
+  "url": "https://arxiv.org/abs/2607.00627",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-07-02T04:18:29.884Z",
+  "importance": "critical",
+  "summary": "AGI Maze as a Benchmark Framework for World-Modeling Agents",
+  "whyItMatters": "Large language models (LLMs) are powerful pattern-completion systems, but their default operating mode - predicting the next token from a static context - does not reliably produce persistent, manipulable representations of an external world. Many tasks that look like \"reasoning\" in text become substantially harder once the environment is partially observab…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-02"
+}
