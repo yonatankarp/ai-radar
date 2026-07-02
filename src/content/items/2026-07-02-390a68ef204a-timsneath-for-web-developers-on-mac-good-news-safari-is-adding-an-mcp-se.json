@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-02T04:18:29.884Z",
   "importance": "critical",
   "summary": "@timsneath: For web developers on Mac, good news! Safari is adding an MCP server so your agent can easily test, preview, and debug w",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "For web developers on Mac, good news! Safari is adding an MCP server so your agent can easily test, preview, and debug web content with @webkit. For example, @claude can now see what it's building without needing Playwright or other tools. More here: https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/ · For web developers on…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-07-02"
 }
