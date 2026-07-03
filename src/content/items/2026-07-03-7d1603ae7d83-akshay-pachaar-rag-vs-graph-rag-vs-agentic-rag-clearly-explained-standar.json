@@ -1,0 +1,13 @@
+{
+  "title": "@akshay_pachaar: RAG vs. Graph RAG vs. Agentic RAG, clearly explained! Standard RAG embeds documents into vectors and retrieves the most",
+  "url": "https://x.com/akshay_pachaar/status/2072767459908796782",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-07-03T13:18:26.241Z",
+  "importance": "critical",
+  "summary": "@akshay_pachaar: RAG vs. Graph RAG vs. Agentic RAG, clearly explained! Standard RAG embeds documents into vectors and retrieves the most",
+  "whyItMatters": "RAG vs. Graph RAG vs. Agentic RAG, clearly explained! Standard RAG embeds documents into vectors and retrieves the most similar chunks via similarity search. For direct factual lookups, this works well. But it breaks down when a query needs to connect facts spread across multiple documents. Similarity search retrieves individual chunks, not the relationship…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-07-03"
+}

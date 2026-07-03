@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-02T16:18:26.143Z",
   "importance": "critical",
   "summary": "Build agentic full-stack apps with Genkit",
-  "whyItMatters": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence—allowing for advanced workflows like history branching, long-r…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
