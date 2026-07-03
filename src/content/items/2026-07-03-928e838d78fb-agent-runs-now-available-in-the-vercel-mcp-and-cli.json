@@ -1,0 +1,13 @@
+{
+  "title": "Agent Runs now available in the Vercel MCP and CLI",
+  "url": "https://vercel.com/changelog/agent-runs-vercel-mcp-cli",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-07-03T19:18:33.901Z",
+  "importance": "critical",
+  "summary": "Agent Runs now available in the Vercel MCP and CLI",
+  "whyItMatters": "Your agent can now inspect Agent Runs via the Vercel MCP and CLI for eve , the open-source agent framework. eve traces are automatically ingested when deployed to Vercel an available as Agent Runs. The new Vercel MCP tools and Vercel CLI commands let you find projects with runs, list recent runs, and retrieve full traces, including reasoning, tool calls, an…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-03"
+}
