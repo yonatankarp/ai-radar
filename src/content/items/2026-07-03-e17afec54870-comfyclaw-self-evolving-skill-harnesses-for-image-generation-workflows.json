@@ -1,0 +1,13 @@
+{
+  "title": "COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows",
+  "url": "https://arxiv.org/abs/2607.01709",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-07-03T04:18:28.697Z",
+  "importance": "critical",
+  "summary": "COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows",
+  "whyItMatters": "Agents are increasingly used to construct workflows and assist humans in completing recurring tasks more efficiently. As these workflows become repeated and domain-specific, agent memory and reusable skills become increasingly important: agents should be able to recall workflow patterns, execution constraints, and user preferences from previous runs. We stu…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-03"
+}

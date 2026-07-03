@@ -1,0 +1,13 @@
+{
+  "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+  "url": "https://arxiv.org/abs/2607.01793",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-07-03T04:18:28.696Z",
+  "importance": "critical",
+  "summary": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+  "whyItMatters": "LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them costly to extend as agents evolve. To this end, we present Vera, an end-to-end autom…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-03"
+}

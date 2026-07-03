@@ -5,7 +5,7 @@
   "discoveredAt": "2026-06-30T19:18:44.241Z",
   "importance": "critical",
   "summary": "Driving the Agent Quality Flywheel from Your Coding Agent",
-  "whyItMatters": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyz…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
