@@ -1,0 +1,13 @@
+{
+  "title": "Success Per Tokens",
+  "url": "https://www.lesswrong.com/posts/rDkaSMFfn4x6Hhkin/success-per-tokens",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-05T04:18:25.157Z",
+  "importance": "critical",
+  "summary": "Success Per Tokens",
+  "whyItMatters": "Work smart more than hard, to expand the pareto frontier (but also work hard) A Pareto Frontier is a set of nondominated (optimal) solutions in multi-objective optimization. In 2 dimensions, this traces out a curve on which you can only increase one dimension by sacrificing another. Recently LLMs are being evaluated not just for their ability to complete ta…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-05"
+}
