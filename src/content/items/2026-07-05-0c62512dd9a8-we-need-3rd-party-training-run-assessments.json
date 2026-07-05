@@ -1,0 +1,13 @@
+{
+  "title": "We need 3rd party Training-Run Assessments",
+  "url": "https://www.lesswrong.com/posts/3HvvjffA65mHLwaWm/we-need-3rd-party-training-run-assessments",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-05T16:18:26.142Z",
+  "importance": "critical",
+  "summary": "We need 3rd party Training-Run Assessments",
+  "whyItMatters": "Training-run assessments conducted by a 3rd party should become a standard part of frontier AI safety. By a Training-Run Assessment, or TRA, I mean an in-depth analysis of the post-training pipeline and dynamics leading up to a frontier model release. A TRA can look at intermediate checkpoints, training rollouts, RL environments, reward signals, SFT dataset…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-05"
+}
