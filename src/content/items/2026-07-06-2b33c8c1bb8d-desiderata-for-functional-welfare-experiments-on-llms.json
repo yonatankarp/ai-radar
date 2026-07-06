@@ -1,0 +1,13 @@
+{
+  "title": "Desiderata for functional welfare experiments on LLMs",
+  "url": "https://www.lesswrong.com/posts/yku6byxdeKREibe5L/desiderata-for-functional-welfare-experiments-on-llms",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-06T13:18:28.127Z",
+  "importance": "critical",
+  "summary": "Desiderata for functional welfare experiments on LLMs",
+  "whyItMatters": "TLDR LLMs appear to have functional welfare: coherent sets of behaviour that track how well things are going relative to their goals. Improving model functional welfare matters for safety (low welfare may amplify misalignment) and for moral reasons (models may be or become moral patients). Naive interventions can fail in non-obvious ways. We argue any succe…",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-07-06"
+}
