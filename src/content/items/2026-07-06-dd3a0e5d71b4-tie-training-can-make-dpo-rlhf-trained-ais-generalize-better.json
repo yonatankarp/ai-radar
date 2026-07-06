@@ -1,0 +1,13 @@
+{
+  "title": "Tie training can make DPO/RLHF-trained AIs generalize better",
+  "url": "https://www.lesswrong.com/posts/i2qTghrkyY9xdcCFq/tie-training-can-make-dpo-rlhf-trained-ais-generalize-better",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-06T16:18:15.009Z",
+  "importance": "worth-reading",
+  "summary": "Tie training can make DPO/RLHF-trained AIs generalize better",
+  "whyItMatters": "Worth opening from the current reading queue.",
+  "tags": [
+    "Research / models"
+  ],
+  "issue": "2026-07-06"
+}
