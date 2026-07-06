@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-06T19:18:42.620Z",
   "importance": "critical",
   "summary": "Bounding eval awareness of ~human-level AI across the safe-to-dangerous shift",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "In our last post , we argued that measuring evaluation awareness is fundamentally challenging because of the safe-to-dangerous distributional shift: we cannot directly measure the evaluation awareness of a model without deploying it, but we cannot safely deploy it until we know it is not scheming. We expect sufficiently superhuman AI will be eval aware, but…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-06"
 }

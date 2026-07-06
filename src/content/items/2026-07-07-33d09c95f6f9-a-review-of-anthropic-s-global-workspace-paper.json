@@ -1,0 +1,13 @@
+{
+  "title": "A Review of Anthropic's Global Workspace Paper",
+  "url": "https://www.lesswrong.com/posts/zFJ3ZdQwrTWE9jT5S/a-review-of-anthropic-s-global-workspace-paper",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-06T22:18:25.061Z",
+  "importance": "critical",
+  "summary": "A Review of Anthropic's Global Workspace Paper",
+  "whyItMatters": "The below is a public review Anthropic asked me to write for their new global workspace paper . I recommend at least skimming their paper first. TLDR : I think this is a fantastic paper - it presents compelling evidence for some kind of \"cognitive space\" in models, that is used as a \"working memory\" for intermediate variables during a forward pass, shows th…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}
