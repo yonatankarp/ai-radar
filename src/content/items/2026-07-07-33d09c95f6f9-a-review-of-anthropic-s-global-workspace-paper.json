@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-06T22:18:25.061Z",
   "importance": "critical",
   "summary": "A Review of Anthropic's Global Workspace Paper",
-  "whyItMatters": "The below is a public review Anthropic asked me to write for their new global workspace paper . I recommend at least skimming their paper first. TLDR : I think this is a fantastic paper - it presents compelling evidence for some kind of \"cognitive space\" in models, that is used as a \"working memory\" for intermediate variables during a forward pass, shows th…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Research / models"
   ],
   "issue": "2026-07-07"
 }

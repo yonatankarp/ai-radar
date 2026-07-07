@@ -1,0 +1,13 @@
+{
+  "title": "Rethinking Scientific Discovery in an Agentic Era",
+  "url": "https://arxiv.org/abs/2607.03863",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-07-07T04:18:16.918Z",
+  "importance": "critical",
+  "summary": "Rethinking Scientific Discovery in an Agentic Era",
+  "whyItMatters": "Artificial intelligence has advanced scientific discovery, but most AI4Science systems remain fragmented tools that rely on humans to coordinate problem formulation, literature grounding, model use, simulation, validation, and knowledge reuse. This paper presents \\textbf{SCION (Scientific Collaborative Innovation with Agentic Organizational Nexus)}, an agen…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}

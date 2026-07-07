@@ -1,0 +1,13 @@
+{
+  "title": "Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents",
+  "url": "https://arxiv.org/abs/2607.04219",
+  "source": "arXiv cs.AI recent",
+  "discoveredAt": "2026-07-07T04:18:16.918Z",
+  "importance": "critical",
+  "summary": "Agentic IoT: Architectures, Applications, and Challenges Toward the Internet of Agents",
+  "whyItMatters": "The integration of AI into Internet of Things (AIoT) systems has gradually transformed them from passive data collection infrastructures into intelligent systems capable of anomaly detection, predictive maintenance, classification, forecasting, and optimization. However, most existing solutions still rely on task-specific models that infer from sensor data;…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}

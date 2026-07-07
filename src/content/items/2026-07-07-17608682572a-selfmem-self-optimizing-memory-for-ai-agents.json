@@ -1,0 +1,13 @@
+{
+  "title": "SelfMem: Self-Optimizing Memory for AI Agents",
+  "url": "https://arxiv.org/abs/2607.03726",
+  "source": "arXiv cs.CL recent",
+  "discoveredAt": "2026-07-07T04:18:16.919Z",
+  "importance": "critical",
+  "summary": "SelfMem: Self-Optimizing Memory for AI Agents",
+  "whyItMatters": "While current AI agents support increasingly long context windows, tool use, and skill execution for long-horizon tasks, they still require memory systems to effectively leverage historical experience. Existing memory frameworks typically rely on fixed storage, retrieval, and summarization mechanisms, which can be rigid across different tasks and often requ…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}
