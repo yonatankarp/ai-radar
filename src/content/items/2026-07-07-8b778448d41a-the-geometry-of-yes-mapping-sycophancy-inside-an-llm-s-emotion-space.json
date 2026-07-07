@@ -1,0 +1,13 @@
+{
+  "title": "The Geometry of Yes: Mapping Sycophancy Inside an LLM's Emotion Space",
+  "url": "https://www.lesswrong.com/posts/v6uCyDNBKhrHevhzM/the-geometry-of-yes-mapping-sycophancy-inside-an-llm-s-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-07T07:18:13.175Z",
+  "importance": "critical",
+  "summary": "The Geometry of Yes: Mapping Sycophancy Inside an LLM's Emotion Space",
+  "whyItMatters": "Summary LLMs have internal emotion representations that causally shape their behaviour. This was recently observed in Claude: positive emotions like happy and loving are linked to sycophancy, and you can steer the model by directly manipulating these directions in activation space. But some questions were left open. Here we focus on two: do other models hav…",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-07-07"
+}

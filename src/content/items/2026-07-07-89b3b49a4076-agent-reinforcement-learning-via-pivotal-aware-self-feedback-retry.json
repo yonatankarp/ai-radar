@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-07T04:18:16.919Z",
   "importance": "worth-reading",
   "summary": "Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Large language model (LLM) agents have shown strong decision-making capabilities in long-horizon interactive tasks, yet they still struggle to effectively leverage failed trajectories: full retries incur high interaction costs, while experience retrieval tends to dilute critical experience signals. To address this, we propose PivoARL, a self-feedback retry…",
   "tags": [
     "Agentic AI / workflow"
   ],

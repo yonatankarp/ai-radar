@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-07T04:18:16.919Z",
   "importance": "critical",
   "summary": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "AI tools are accelerating scientific publication while the systems that review it struggle to keep up, and independent verification of published research has become both harder and more important. As manual replication is slow and expensive, a growing line of work uses coding agents to automate parts of the process. Existing efforts are largely packaged as…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-07"
 }

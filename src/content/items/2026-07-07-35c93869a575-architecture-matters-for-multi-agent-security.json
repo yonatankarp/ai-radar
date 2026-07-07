@@ -1,0 +1,13 @@
+{
+  "title": "Architecture matters for multi-agent security",
+  "url": "https://www.lesswrong.com/posts/vY2KM97v9iAmhgTuz/architecture-matters-for-multi-agent-security",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-07T07:18:13.174Z",
+  "importance": "critical",
+  "summary": "Architecture matters for multi-agent security",
+  "whyItMatters": "A summary of our ICML 2026 paper, Architecture Matters for Multi-Agent Security ( Ben Hagag, William L. Anderson , Christian Schroeder de Witt , Sarah Scheffler ). The scenarios and experiments were built on Orbit, a multi-agent security experimentation framework we'll release v0 of soon. Benchmark adaptations and code are on GitHub . Orbit is very much sti…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}
