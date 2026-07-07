@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-07T16:18:27.612Z",
   "importance": "critical",
   "summary": "Improving Agents is a Data Mining Problem",
-  "whyItMatters": "How LangChain mines agent traces to find failures, fine-tune judge models cheaper than frontier LLMs, and hill-climb performance with evals.",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],

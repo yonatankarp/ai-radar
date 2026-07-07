@@ -1,0 +1,13 @@
+{
+  "title": "Personascope: Measuring how deeply LLMs adopt personas",
+  "url": "https://www.lesswrong.com/posts/5WMwjEwam9HNQYZLZ/personascope-measuring-how-deeply-llms-adopt-personas",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-07T19:18:27.451Z",
+  "importance": "critical",
+  "summary": "Personascope: Measuring how deeply LLMs adopt personas",
+  "whyItMatters": "Benji Berczi , Kyuhee Kim , James Requeima, Sid Black, Cozmin Ududec This is work done by Benji and Kyuhee during MATS Winter 2026, mentored by Cozmin Ududec, and advised by James and Sid. Figure 1. A model can take on a persona fully in voice while not changing its behaviour at all. The x-axis (Persona-Adoption Depth, PAD) is how fully the model identifies…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-07"
+}

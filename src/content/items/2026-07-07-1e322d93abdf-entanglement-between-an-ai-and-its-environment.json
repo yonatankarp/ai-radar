@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-07T16:18:27.612Z",
   "importance": "critical",
   "summary": "Entanglement Between an AI and Its Environment",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "TL;DR: We introduce a concept we call \"entanglement\": roughly, the amount of information that the AI has about its environment. We distinguish between \"actual\" entanglement between a specific instance of an AI and its environment and \"minimum\" entanglement corresponding to some task, without which solving the task is no longer viable. We think entanglement…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-07"
 }
