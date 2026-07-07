@@ -1,0 +1,13 @@
+{
+  "title": "@DAIEvolutionHub: WEB SCRAPING JUST GOT A SERIOUS UPGRADE. PixelRAG doesn't read HTML. It reads the page exactly like you do. 100% open-so",
+  "url": "https://x.com/DAIEvolutionHub/status/2074133351452336156",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-07-07T13:18:30.151Z",
+  "importance": "critical",
+  "summary": "@DAIEvolutionHub: WEB SCRAPING JUST GOT A SERIOUS UPGRADE. PixelRAG doesn't read HTML. It reads the page exactly like you do. 100% open-so",
+  "whyItMatters": "WEB SCRAPING JUST GOT A SERIOUS UPGRADE. PixelRAG doesn't read HTML. It reads the page exactly like you do. 100% open-source. Instead of parsing websites into plain text, it captures screenshots and lets a vision model retrieve answers directly from the pixels. Why that's a big deal: • HTML parsers silently lose information. • Tables, charts, formulas, and…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-07-07"
+}
