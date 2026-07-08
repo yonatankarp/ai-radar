@@ -1,0 +1,13 @@
+{
+  "title": "Native-speed vLLM transformers modeling backend",
+  "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-07-08T16:18:24.707Z",
+  "importance": "worth-reading",
+  "summary": "Native-speed vLLM transformers modeling backend",
+  "whyItMatters": "Native-speed vLLM transformers modeling backend",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-07-08"
+}
