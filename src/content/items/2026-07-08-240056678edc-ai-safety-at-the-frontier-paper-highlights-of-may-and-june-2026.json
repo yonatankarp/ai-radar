@@ -1,0 +1,13 @@
+{
+  "title": "AI Safety at the Frontier: Paper Highlights of May & June 2026",
+  "url": "https://www.lesswrong.com/posts/WigqvbXF23ZdXJ34x/ai-safety-at-the-frontier-paper-highlights-of-may-and-june",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-08T19:18:46.740Z",
+  "importance": "critical",
+  "summary": "AI Safety at the Frontier: Paper Highlights of May & June 2026",
+  "whyItMatters": "tl;dr Paper of the month: Anthropic’s Jacobian lens reveals that models have a sparse workspace of verbalizable concepts that causally carries multi-hop reasoning and surfaces hidden cognition — as opposed to other, more automatic mental processing. Research highlights: Natural language autoencoders translate activations into human-readable descriptions, su…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-08"
+}

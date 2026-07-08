@@ -1,0 +1,13 @@
+{
+  "title": "Artificial Ambassadors: The Three Cases for Sending LLMs to Deep Space",
+  "url": "https://www.lesswrong.com/posts/nZy9jHduXv9LhkS4q/artificial-ambassadors-the-three-cases-for-sending-llms-to-1",
+  "source": "LessWrong",
+  "discoveredAt": "2026-07-08T19:18:46.740Z",
+  "importance": "critical",
+  "summary": "Artificial Ambassadors: The Three Cases for Sending LLMs to Deep Space",
+  "whyItMatters": "For something that “simply predicts the next token”, Large Language Models are a surprisingly versatile technology. In addition to the obvious applications, such as chatbots, translation engines or coding assistants, LLMs can act as agents, operating various software and hardware tools. LLM-based agents interacting with a physical world are becoming increas…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-08"
+}
