@@ -1,0 +1,13 @@
+{
+  "title": "Vercel Agent: An agent you can let near production",
+  "url": "https://vercel.com/blog/vercel-agent",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-07-08T22:18:29.001Z",
+  "importance": "critical",
+  "summary": "Vercel Agent: An agent you can let near production",
+  "whyItMatters": "Today we're expanding Vercel Agent . It started by triaging alerts and reviewing your pull requests. Now it has a home in your dashboard, where it can investigate production, answer questions about your projects, and take action once you approve it. Because Vercel Agent is built into the platform that deploys and runs your app, when something changes in pro…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-09"
+}

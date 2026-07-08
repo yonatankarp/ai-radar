@@ -1,0 +1,13 @@
+{
+  "title": "Separating signal from noise in coding evaluations",
+  "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-07-08T22:18:29.005Z",
+  "importance": "worth-reading",
+  "summary": "Separating signal from noise in coding evaluations",
+  "whyItMatters": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-07-09"
+}
