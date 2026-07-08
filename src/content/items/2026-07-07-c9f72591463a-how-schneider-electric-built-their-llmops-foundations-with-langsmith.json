@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-07T16:18:27.612Z",
   "importance": "critical",
   "summary": "How Schneider Electric Built Their LLMOps Foundations With LangSmith",
-  "whyItMatters": "Learn how Schneider Electric built enterprise LLMOps foundations with LangSmith to improve observability, evaluation, and deployment for AI products at scale.",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
-    "Agentic AI / workflow"
+    "Practical tooling / usage"
   ],
   "issue": "2026-07-07"
 }
