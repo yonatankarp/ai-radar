@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-08T04:18:17.522Z",
   "importance": "critical",
   "summary": "Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory",
-  "whyItMatters": "Agentic video understanding equips models with long-term memory to autonomously process and respond to continuous, long-horizon multimodal streams. However, advanced video agents often rely on ``detective-style'' iterative reasoning for action control (e.g., $\\mathtt{search}$) and evidence aggregation, incurring prohibitive costs and latency. We argue that…",
+  "whyItMatters": "Worth opening from the current reading queue.",
   "tags": [
     "Agentic AI / workflow"
   ],
