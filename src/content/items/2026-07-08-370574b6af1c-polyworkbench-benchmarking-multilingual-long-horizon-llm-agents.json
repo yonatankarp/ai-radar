@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-08T04:18:17.522Z",
   "importance": "critical",
   "summary": "PolyWorkBench: Benchmarking Multilingual Long-Horizon LLM Agents",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Large language model (LLM) agents have shown strong performance in long-horizon tasks that require planning, tool use, and interaction with external environments. However, most existing benchmarks implicitly assume a monolingual setting, where the entire execution process, including reasoning, tool invocation, and output generation, is conducted within a si…",
   "tags": [
     "Agentic AI / workflow"
   ],

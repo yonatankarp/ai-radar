@@ -1,0 +1,13 @@
+{
+  "title": "@Granite0x: He built OpenClaw, then joined OpenAI to bring agents to everyone. instead of keeping his private Claude Code loadout to",
+  "url": "https://x.com/Granite0x/status/2074564925318697096",
+  "source": "birdclaw local X/Twitter",
+  "discoveredAt": "2026-07-08T07:18:24.286Z",
+  "importance": "critical",
+  "summary": "@Granite0x: He built OpenClaw, then joined OpenAI to bring agents to everyone. instead of keeping his private Claude Code loadout to",
+  "whyItMatters": "He built OpenClaw, then joined OpenAI to bring agents to everyone. instead of keeping his private Claude Code loadout to himself, he open-sourced it. Peter Steinberger. Founded PSPDFKit - the PDF SDK inside Dropbox and Evernote. 'agent-scripts' - his personal loadout of hard rules, skills, and guardrails he symlinks into ~/.claude/skills/ on every project.…",
+  "tags": [
+    "Community/social early signal"
+  ],
+  "issue": "2026-07-08"
+}

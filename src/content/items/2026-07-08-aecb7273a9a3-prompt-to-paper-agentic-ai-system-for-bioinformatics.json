@@ -5,7 +5,7 @@
   "discoveredAt": "2026-07-08T04:18:17.522Z",
   "importance": "critical",
   "summary": "Prompt-to-Paper: Agentic AI System for Bioinformatics",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "While recent advances in large language models have enabled end-to-end automated manuscript generation, existing systems suffer from three critical deficiencies: (i) generated claims are not deterministically grounded in verifiable literature, (ii) experimental results are frequently fabricated rather than executed, and (iii) there exists no standardized, m…",
   "tags": [
     "Agentic AI / workflow"
   ],
