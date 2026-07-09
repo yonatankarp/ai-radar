@@ -1,0 +1,13 @@
+{
+  "title": "Muse Spark 1.1 is now available on AI Gateway",
+  "url": "https://vercel.com/changelog/muse-spark-1-1-is-now-available-on-ai-gateway",
+  "source": "Vercel Blog",
+  "discoveredAt": "2026-07-09T19:18:28.918Z",
+  "importance": "critical",
+  "summary": "Muse Spark 1.1 is now available on AI Gateway",
+  "whyItMatters": "Muse Spark 1.1 from Meta is now available on AI Gateway . It is a multimodal reasoning model with a 1M token context window built for agentic tasks, accepting text, image, video, PDF, and audio inputs. Muse Spark 1.1 plans and orchestrates work across tools and services, operating as a main agent or as a subagent, and it works with new tools, MCP servers, a…",
+  "tags": [
+    "Agentic AI / workflow"
+  ],
+  "issue": "2026-07-09"
+}

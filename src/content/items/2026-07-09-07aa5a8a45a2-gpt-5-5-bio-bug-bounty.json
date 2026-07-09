@@ -1,0 +1,13 @@
+{
+  "title": "GPT-5.5 Bio Bug Bounty",
+  "url": "https://openai.com/index/bio-bug-bounty",
+  "source": "OpenAI News",
+  "discoveredAt": "2026-07-09T19:18:28.921Z",
+  "importance": "worth-reading",
+  "summary": "GPT-5.5 Bio Bug Bounty",
+  "whyItMatters": "Details about the OpenAI Bio Bounty program",
+  "tags": [
+    "Lab/model release"
+  ],
+  "issue": "2026-07-09"
+}
