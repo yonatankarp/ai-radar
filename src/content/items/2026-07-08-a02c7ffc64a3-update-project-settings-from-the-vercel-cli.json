@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-08T19:18:46.741Z",
   "importance": "critical",
   "summary": "Update Project Settings from the Vercel CLI",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "You can now update a project's framework preset and build settings directly from the CLI, without opening the dashboard. Run vercel project update from a linked project, or pass a project name directly: Settings can also be returned to automatic detection instead of an explicit override: For automation or further inspection, return the result as JSON: JSON…",
   "tags": [
-    "Practical tooling / usage"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-08"
 }
