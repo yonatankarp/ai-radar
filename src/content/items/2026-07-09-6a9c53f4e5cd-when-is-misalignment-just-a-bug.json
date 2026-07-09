@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-09T19:18:28.919Z",
   "importance": "critical",
   "summary": "When is misalignment just a bug?",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Cross-posted from The Foretellix CTO Blog . Introduction and epistemic status: This is the first post in a planned series, “Alignment as a verification problem”. I co-originated coverage-driven verification ( CDV ), which became the standard methodology for chip verification and is heavily used in AV safety. Back in 2015 I wrote that verifying “Friendly AI”…",
   "tags": [
-    "Research / models"
+    "Agentic AI / workflow"
   ],
   "issue": "2026-07-09"
 }
