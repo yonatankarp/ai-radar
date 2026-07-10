@@ -1,0 +1,13 @@
+{
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "url": "https://huggingface.co/blog/torch-attention-profile",
+  "source": "Hugging Face Blog",
+  "discoveredAt": "2026-07-10T16:18:30.063Z",
+  "importance": "worth-reading",
+  "summary": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "whyItMatters": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "tags": [
+    "Practical tooling / usage"
+  ],
+  "issue": "2026-07-10"
+}
