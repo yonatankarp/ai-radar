@@ -5,9 +5,9 @@
   "discoveredAt": "2026-07-10T13:18:20.472Z",
   "importance": "critical",
   "summary": "@0xMovez: Google just released a 1-hour course on agentic engineering from scratch: 00:00 – How to deploy your first AI agent 22:1",
-  "whyItMatters": "Worth opening from the current reading queue.",
+  "whyItMatters": "Google just released a 1-hour course on agentic engineering from scratch: 00:00 – How to deploy your first AI agent 22:10 – Build agent memory (short, persistent, long) 42:18 – Agentic loops, long-running AI agents 01:04:47 – Advanced AI agent design patterns 01:12:49 - How to build MCP (MCP vs API) This 1-hour watch will replace 20 paid agentic courses on…",
   "tags": [
-    "Agentic AI / workflow"
+    "Community/social early signal"
   ],
   "issue": "2026-07-10"
 }
